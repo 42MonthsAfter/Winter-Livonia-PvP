@@ -1,0 +1,220 @@
+﻿ 1:42:39 BattlEye Server: Initialized (v1.219, DayZ 1.23.157045)
+ 1:42:39 SUCCESS: SteamGameServer_Init(0,8766,2302,27016,3,1.23.157045)
+ 1:42:39 BattlEye Server: Config entry: RConPassword 533bd87e79c0110b01c844282b7ce849
+ 1:42:39 BattlEye Server: Config entry: RConPort 2305
+ 1:42:39 BattlEye Server: Config entry: RestrictRCon 0
+ 1:42:39 Roles assigned.
+ 1:42:39 Reading mission ...
+ 1:42:47 [CE][Hive] :: Initializing OFFLINE
+ 1:42:47 [StorageDirs] :: Selected storage directory: C:\Users\rylic\OneDrive\Documents\Winter-Livonia\servers\Production\mpmissions\dayzOffline.enoch\storage_1\
+ 1:42:47 [CE][Hive] :: Loading core data ... 
+ 1:42:47 [CE][CoreData] :: 7 root classes, 19 defaults, 0 updaters...
+ 1:42:50 [CE][TypeSetup] :: 527 classes setuped...
+ 1:42:50 [CE][TypeSetup] :: 97 classes setuped...
+ 1:42:52 [CE][RegisterBind] :: 0 classes binded...
+ 1:42:52 [CE][RegisterConfig] :: 11369 config classes registered, 0 sub-counters...
+ 1:42:52 [CE][Hive] :: Loading map data ... 
+ 1:42:52 [CE][IgnoreList] "cfgignorelist.xml" :: loaded 19 types
+ 1:42:52 [CE][LoadPrototype] :: loaded 445 prototypes
+ 1:42:52   842 containers, 11087 points
+ 1:42:52   83 dispatches, 324 proxies
+ 1:42:52 !!! [CE][LoadPrototype] 4 groups have no points...
+ 1:42:52 !!! [CE][LoadPrototype] 1 groups have wrong points...
+ 1:42:52 [CE][LoadPrototype] :: last group name: StaticObj_Misc_SupplyBox3_DE...
+ 1:42:52 [CE][LoadPrototype] :: loaded 0 prototypes
+ 1:42:52   50 containers, 276 points
+ 1:42:52   0 dispatches, 0 proxies
+ 1:42:52 [CE][LoadPrototype] :: last group name: PathD_7100...
+ 1:42:52 [CE][LoadMap] "Group" :: loaded 5753 groups, groups failed: 0, largest group range: 26.6
+ 1:42:52 [CE][LoadMap] "Dirt" :: loaded 0 groups, groups failed: 0, largest group range: 26.6
+ 1:42:52 [CE][LoadClusters] "Cluster" :: Loading files...
+ 1:42:52 [CE][LoadClusters] :: file: "mapgroupcluster.xml", 4 types, 50000 instances
+ 1:42:52 [CE][LoadClusters] :: file: "mapgroupcluster01", 4 types, 50000 instances
+ 1:42:53 [CE][LoadClusters] :: file: "mapgroupcluster02", 4 types, 50000 instances
+ 1:42:53 [CE][LoadClusters] :: file: "mapgroupcluster03", 4 types, 50000 instances
+ 1:42:53 [CE][LoadClusters] :: file: "mapgroupcluster04", 4 types, 25015 instances
+ 1:42:53 [CE][Storage] ver:21 stamp:345, valid:yes, name:"C:\Users\rylic\OneDrive\Documents\Winter-Livonia\servers\Production\mpmissions\dayzOffline.enoch\storage_1\data\types.bin"
+ 1:42:53 [CE][Storage] ver:21 stamp:340, valid:yes, name:"C:\Users\rylic\OneDrive\Documents\Winter-Livonia\servers\Production\mpmissions\dayzOffline.enoch\storage_1\data\types.001"
+ 1:42:53 [CE][Storage] ver:21 stamp:341, valid:yes, name:"C:\Users\rylic\OneDrive\Documents\Winter-Livonia\servers\Production\mpmissions\dayzOffline.enoch\storage_1\data\types.002"
+ 1:42:53 [CE][Storage] Restoring file "C:\Users\rylic\OneDrive\Documents\Winter-Livonia\servers\Production\mpmissions\dayzOffline.enoch\storage_1\data\types.bin".
+ 1:42:53 !!! [CE][offlineDB] :: No Shutdown message present.
+ 1:42:53 [CE][offlineDB] :: Loaded 43 dynamic events 235 total types.
+ 1:42:53 !!! [CE][DE] (VehicleTruck01) :: Unable to create child (Truck_01_Covered_Grey) as the type does not exist.
+ 1:42:53 [CE][offlineDB] :: Loaded 52 dynamic events 292 total types.
+ 1:42:53 !!! [CE][offlineDB] :: Type 'ChristmasTree_Green' will be ignored. (Not spawnable. (Scope is not public?))
+ 1:42:53 !!! [CE][offlineDB] :: Type 'WitchHood_Chainmail_Black' will be ignored. (Type does not exist. (Typo?))
+ 1:42:53 !!! [CE][offlineDB] :: Type 'WitchHood_Chainmail_Brown' will be ignored. (Type does not exist. (Typo?))
+ 1:42:53 !!! [CE][offlineDB] :: Type 'WitchHood_Chainmail_Red' will be ignored. (Type does not exist. (Typo?))
+ 1:42:53 !!! [CE][offlineDB] :: Type 'Expansion_M79' will be ignored. (Not spawnable. (Scope is not public?))
+ 1:42:53 !!! [CE][offlineDB] :: Type 'ExpansionFlaregun' will be ignored. (Not spawnable. (Scope is not public?))
+ 1:42:53 !!! [CE][offlineDB] :: Type 'Expansion_Longhorn' will be ignored. (Not spawnable. (Scope is not public?))
+ 1:42:53 !!! [CE][DE][SPAWNS] :: [WARNING] :: Skipping entry for non-existing event 'VehicleTransitBus'.
+ 1:42:53 [CE][DE][SPAWNS] :: Total positions: 529
+ 1:42:53 [CE][DE][GROUPS] :: Total eventgroups defined: 61, Eventgroups in use: 61
+ 1:42:53 [CE][Storage] ver:21 stamp:345, valid:yes, name:"C:\Users\rylic\OneDrive\Documents\Winter-Livonia\servers\Production\mpmissions\dayzOffline.enoch\storage_1\data\events.bin"
+ 1:42:53 [CE][Storage] ver:21 stamp:340, valid:yes, name:"C:\Users\rylic\OneDrive\Documents\Winter-Livonia\servers\Production\mpmissions\dayzOffline.enoch\storage_1\data\events.001"
+ 1:42:53 [CE][Storage] ver:21 stamp:341, valid:yes, name:"C:\Users\rylic\OneDrive\Documents\Winter-Livonia\servers\Production\mpmissions\dayzOffline.enoch\storage_1\data\events.002"
+ 1:42:53 [CE][Storage] Restoring file "C:\Users\rylic\OneDrive\Documents\Winter-Livonia\servers\Production\mpmissions\dayzOffline.enoch\storage_1\data\events.bin".
+ 1:42:53 [CE][DynamicEvent] Load  Events:[52] Primary spawners: 52 Secondary spawners: 4
+ 1:42:53 [CE][Storage] ver:25 stamp:345, valid:yes, name:"C:\Users\rylic\OneDrive\Documents\Winter-Livonia\servers\Production\mpmissions\dayzOffline.enoch\storage_1\data\dynamic_000.bin"
+ 1:42:53 [CE][Storage] ver:25 stamp:340, valid:yes, name:"C:\Users\rylic\OneDrive\Documents\Winter-Livonia\servers\Production\mpmissions\dayzOffline.enoch\storage_1\data\dynamic_000.001"
+ 1:42:53 [CE][Storage] ver:25 stamp:341, valid:yes, name:"C:\Users\rylic\OneDrive\Documents\Winter-Livonia\servers\Production\mpmissions\dayzOffline.enoch\storage_1\data\dynamic_000.002"
+ 1:42:53 [CE][Storage] Restoring file "C:\Users\rylic\OneDrive\Documents\Winter-Livonia\servers\Production\mpmissions\dayzOffline.enoch\storage_1\data\dynamic_000.bin" 609 items.
+ 1:42:53   609 items loaded. (0 failed)
+ 1:42:53 [CE][Storage] ver:25 stamp:345, valid:yes, name:"C:\Users\rylic\OneDrive\Documents\Winter-Livonia\servers\Production\mpmissions\dayzOffline.enoch\storage_1\data\dynamic_001.bin"
+ 1:42:53 [CE][Storage] ver:25 stamp:340, valid:yes, name:"C:\Users\rylic\OneDrive\Documents\Winter-Livonia\servers\Production\mpmissions\dayzOffline.enoch\storage_1\data\dynamic_001.001"
+ 1:42:53 [CE][Storage] ver:25 stamp:341, valid:yes, name:"C:\Users\rylic\OneDrive\Documents\Winter-Livonia\servers\Production\mpmissions\dayzOffline.enoch\storage_1\data\dynamic_001.002"
+ 1:42:53 [CE][Storage] Restoring file "C:\Users\rylic\OneDrive\Documents\Winter-Livonia\servers\Production\mpmissions\dayzOffline.enoch\storage_1\data\dynamic_001.bin" 2323 items.
+ 1:42:54   2323 items loaded. (0 failed)
+ 1:42:54 [CE][Storage] ver:25 stamp:345, valid:yes, name:"C:\Users\rylic\OneDrive\Documents\Winter-Livonia\servers\Production\mpmissions\dayzOffline.enoch\storage_1\data\dynamic_002.bin"
+ 1:42:54 [CE][Storage] ver:25 stamp:340, valid:yes, name:"C:\Users\rylic\OneDrive\Documents\Winter-Livonia\servers\Production\mpmissions\dayzOffline.enoch\storage_1\data\dynamic_002.001"
+ 1:42:54 [CE][Storage] ver:25 stamp:341, valid:yes, name:"C:\Users\rylic\OneDrive\Documents\Winter-Livonia\servers\Production\mpmissions\dayzOffline.enoch\storage_1\data\dynamic_002.002"
+ 1:42:54 [CE][Storage] Restoring file "C:\Users\rylic\OneDrive\Documents\Winter-Livonia\servers\Production\mpmissions\dayzOffline.enoch\storage_1\data\dynamic_002.bin" 674 items.
+ 1:42:55   674 items loaded. (0 failed)
+ 1:42:55 [CE][Storage] ver:25 stamp:345, valid:yes, name:"C:\Users\rylic\OneDrive\Documents\Winter-Livonia\servers\Production\mpmissions\dayzOffline.enoch\storage_1\data\dynamic_003.bin"
+ 1:42:55 [CE][Storage] ver:25 stamp:340, valid:yes, name:"C:\Users\rylic\OneDrive\Documents\Winter-Livonia\servers\Production\mpmissions\dayzOffline.enoch\storage_1\data\dynamic_003.001"
+ 1:42:55 [CE][Storage] ver:25 stamp:341, valid:yes, name:"C:\Users\rylic\OneDrive\Documents\Winter-Livonia\servers\Production\mpmissions\dayzOffline.enoch\storage_1\data\dynamic_003.002"
+ 1:42:55 [CE][Storage] Restoring file "C:\Users\rylic\OneDrive\Documents\Winter-Livonia\servers\Production\mpmissions\dayzOffline.enoch\storage_1\data\dynamic_003.bin" 1449 items.
+ 1:42:55   1449 items loaded. (0 failed)
+ 1:42:55 [CE][Storage] ver:25 stamp:345, valid:yes, name:"C:\Users\rylic\OneDrive\Documents\Winter-Livonia\servers\Production\mpmissions\dayzOffline.enoch\storage_1\data\dynamic_004.bin"
+ 1:42:55 [CE][Storage] ver:25 stamp:340, valid:yes, name:"C:\Users\rylic\OneDrive\Documents\Winter-Livonia\servers\Production\mpmissions\dayzOffline.enoch\storage_1\data\dynamic_004.001"
+ 1:42:55 [CE][Storage] ver:25 stamp:341, valid:yes, name:"C:\Users\rylic\OneDrive\Documents\Winter-Livonia\servers\Production\mpmissions\dayzOffline.enoch\storage_1\data\dynamic_004.002"
+ 1:42:55 [CE][Storage] Restoring file "C:\Users\rylic\OneDrive\Documents\Winter-Livonia\servers\Production\mpmissions\dayzOffline.enoch\storage_1\data\dynamic_004.bin" 1268 items.
+ 1:42:56   1268 items loaded. (0 failed)
+ 1:42:56 [CE][Storage] ver:25 stamp:345, valid:yes, name:"C:\Users\rylic\OneDrive\Documents\Winter-Livonia\servers\Production\mpmissions\dayzOffline.enoch\storage_1\data\dynamic_005.bin"
+ 1:42:56 [CE][Storage] ver:25 stamp:340, valid:yes, name:"C:\Users\rylic\OneDrive\Documents\Winter-Livonia\servers\Production\mpmissions\dayzOffline.enoch\storage_1\data\dynamic_005.001"
+ 1:42:56 [CE][Storage] ver:25 stamp:341, valid:yes, name:"C:\Users\rylic\OneDrive\Documents\Winter-Livonia\servers\Production\mpmissions\dayzOffline.enoch\storage_1\data\dynamic_005.002"
+ 1:42:56 [CE][Storage] Restoring file "C:\Users\rylic\OneDrive\Documents\Winter-Livonia\servers\Production\mpmissions\dayzOffline.enoch\storage_1\data\dynamic_005.bin" 1537 items.
+ 1:42:56   1537 items loaded. (0 failed)
+ 1:42:56 [CE][Storage] ver:25 stamp:345, valid:yes, name:"C:\Users\rylic\OneDrive\Documents\Winter-Livonia\servers\Production\mpmissions\dayzOffline.enoch\storage_1\data\dynamic_006.bin"
+ 1:42:56 [CE][Storage] ver:25 stamp:340, valid:yes, name:"C:\Users\rylic\OneDrive\Documents\Winter-Livonia\servers\Production\mpmissions\dayzOffline.enoch\storage_1\data\dynamic_006.001"
+ 1:42:56 [CE][Storage] ver:25 stamp:341, valid:yes, name:"C:\Users\rylic\OneDrive\Documents\Winter-Livonia\servers\Production\mpmissions\dayzOffline.enoch\storage_1\data\dynamic_006.002"
+ 1:42:56 [CE][Storage] Restoring file "C:\Users\rylic\OneDrive\Documents\Winter-Livonia\servers\Production\mpmissions\dayzOffline.enoch\storage_1\data\dynamic_006.bin" 1086 items.
+ 1:42:57   1086 items loaded. (0 failed)
+ 1:42:57 [CE][Storage] ver:25 stamp:345, valid:yes, name:"C:\Users\rylic\OneDrive\Documents\Winter-Livonia\servers\Production\mpmissions\dayzOffline.enoch\storage_1\data\dynamic_007.bin"
+ 1:42:57 [CE][Storage] ver:25 stamp:340, valid:yes, name:"C:\Users\rylic\OneDrive\Documents\Winter-Livonia\servers\Production\mpmissions\dayzOffline.enoch\storage_1\data\dynamic_007.001"
+ 1:42:57 [CE][Storage] ver:25 stamp:341, valid:yes, name:"C:\Users\rylic\OneDrive\Documents\Winter-Livonia\servers\Production\mpmissions\dayzOffline.enoch\storage_1\data\dynamic_007.002"
+ 1:42:57 [CE][Storage] Restoring file "C:\Users\rylic\OneDrive\Documents\Winter-Livonia\servers\Production\mpmissions\dayzOffline.enoch\storage_1\data\dynamic_007.bin" 1228 items.
+ 1:42:57   1228 items loaded. (0 failed)
+ 1:42:57 [CE][Storage] ver:25 stamp:345, valid:yes, name:"C:\Users\rylic\OneDrive\Documents\Winter-Livonia\servers\Production\mpmissions\dayzOffline.enoch\storage_1\data\dynamic_008.bin"
+ 1:42:57 [CE][Storage] ver:25 stamp:340, valid:yes, name:"C:\Users\rylic\OneDrive\Documents\Winter-Livonia\servers\Production\mpmissions\dayzOffline.enoch\storage_1\data\dynamic_008.001"
+ 1:42:57 [CE][Storage] ver:25 stamp:341, valid:yes, name:"C:\Users\rylic\OneDrive\Documents\Winter-Livonia\servers\Production\mpmissions\dayzOffline.enoch\storage_1\data\dynamic_008.002"
+ 1:42:57 [CE][Storage] Restoring file "C:\Users\rylic\OneDrive\Documents\Winter-Livonia\servers\Production\mpmissions\dayzOffline.enoch\storage_1\data\dynamic_008.bin" 1053 items.
+ 1:42:58   1053 items loaded. (0 failed)
+ 1:42:58 [CE][Storage] ver:25 stamp:345, valid:yes, name:"C:\Users\rylic\OneDrive\Documents\Winter-Livonia\servers\Production\mpmissions\dayzOffline.enoch\storage_1\data\dynamic_009.bin"
+ 1:42:58 [CE][Storage] ver:25 stamp:340, valid:yes, name:"C:\Users\rylic\OneDrive\Documents\Winter-Livonia\servers\Production\mpmissions\dayzOffline.enoch\storage_1\data\dynamic_009.001"
+ 1:42:58 [CE][Storage] ver:25 stamp:341, valid:yes, name:"C:\Users\rylic\OneDrive\Documents\Winter-Livonia\servers\Production\mpmissions\dayzOffline.enoch\storage_1\data\dynamic_009.002"
+ 1:42:58 [CE][Storage] Restoring file "C:\Users\rylic\OneDrive\Documents\Winter-Livonia\servers\Production\mpmissions\dayzOffline.enoch\storage_1\data\dynamic_009.bin" 983 items.
+ 1:42:58   983 items loaded. (0 failed)
+ 1:42:58 [CE][Storage] ver:25 stamp:345, valid:yes, name:"C:\Users\rylic\OneDrive\Documents\Winter-Livonia\servers\Production\mpmissions\dayzOffline.enoch\storage_1\data\dynamic_010.bin"
+ 1:42:58 [CE][Storage] ver:25 stamp:340, valid:yes, name:"C:\Users\rylic\OneDrive\Documents\Winter-Livonia\servers\Production\mpmissions\dayzOffline.enoch\storage_1\data\dynamic_010.001"
+ 1:42:58 [CE][Storage] ver:25 stamp:341, valid:yes, name:"C:\Users\rylic\OneDrive\Documents\Winter-Livonia\servers\Production\mpmissions\dayzOffline.enoch\storage_1\data\dynamic_010.002"
+ 1:42:58 [CE][Storage] Restoring file "C:\Users\rylic\OneDrive\Documents\Winter-Livonia\servers\Production\mpmissions\dayzOffline.enoch\storage_1\data\dynamic_010.bin" 2520 items.
+ 1:42:59   2520 items loaded. (0 failed)
+ 1:42:59 [CE][Storage] ver:25 stamp:345, valid:yes, name:"C:\Users\rylic\OneDrive\Documents\Winter-Livonia\servers\Production\mpmissions\dayzOffline.enoch\storage_1\data\dynamic_011.bin"
+ 1:42:59 [CE][Storage] ver:25 stamp:340, valid:yes, name:"C:\Users\rylic\OneDrive\Documents\Winter-Livonia\servers\Production\mpmissions\dayzOffline.enoch\storage_1\data\dynamic_011.001"
+ 1:42:59 [CE][Storage] ver:25 stamp:341, valid:yes, name:"C:\Users\rylic\OneDrive\Documents\Winter-Livonia\servers\Production\mpmissions\dayzOffline.enoch\storage_1\data\dynamic_011.002"
+ 1:42:59 [CE][Storage] Restoring file "C:\Users\rylic\OneDrive\Documents\Winter-Livonia\servers\Production\mpmissions\dayzOffline.enoch\storage_1\data\dynamic_011.bin" 388 items.
+ 1:42:59   388 items loaded. (0 failed)
+ 1:42:59 [CE][Storage] ver:26 stamp:345, valid:yes, name:"C:\Users\rylic\OneDrive\Documents\Winter-Livonia\servers\Production\mpmissions\dayzOffline.enoch\storage_1\data\building.bin"
+ 1:42:59 [CE][Storage] ver:26 stamp:340, valid:yes, name:"C:\Users\rylic\OneDrive\Documents\Winter-Livonia\servers\Production\mpmissions\dayzOffline.enoch\storage_1\data\building.001"
+ 1:42:59 [CE][Storage] ver:26 stamp:341, valid:yes, name:"C:\Users\rylic\OneDrive\Documents\Winter-Livonia\servers\Production\mpmissions\dayzOffline.enoch\storage_1\data\building.002"
+ 1:42:59 [CE][Storage] Restoring file "C:\Users\rylic\OneDrive\Documents\Winter-Livonia\servers\Production\mpmissions\dayzOffline.enoch\storage_1\data\building.bin" 0 items.
+ 1:42:59   0 items loaded. (0 failed)
+ 1:42:59 [CE][Storage] ver:25 stamp:345, valid:yes, name:"C:\Users\rylic\OneDrive\Documents\Winter-Livonia\servers\Production\mpmissions\dayzOffline.enoch\storage_1\data\vehicles.bin"
+ 1:42:59 [CE][Storage] ver:25 stamp:340, valid:yes, name:"C:\Users\rylic\OneDrive\Documents\Winter-Livonia\servers\Production\mpmissions\dayzOffline.enoch\storage_1\data\vehicles.001"
+ 1:42:59 [CE][Storage] ver:25 stamp:341, valid:yes, name:"C:\Users\rylic\OneDrive\Documents\Winter-Livonia\servers\Production\mpmissions\dayzOffline.enoch\storage_1\data\vehicles.002"
+ 1:42:59 [CE][Storage] Restoring file "C:\Users\rylic\OneDrive\Documents\Winter-Livonia\servers\Production\mpmissions\dayzOffline.enoch\storage_1\data\vehicles.bin" 223 items.
+ 1:43:00   223 items loaded. (0 failed)
+ 1:43:00 [CE][Hive] :: Storage load took:7.17 seconds, recovery stamp:345
+ 1:43:00   entity: 16628, building: 0
+ 1:43:00   no lifetime: 108
+ 1:43:00   pathgraph's: 561
+ 1:43:00 [CE][Hive] :: Initializing ... 
+ 1:43:00 [CE][InitializeMap] :: initialized: 0
+ 1:43:00 [CE][Hive] :: Initializing spawners ... 
+ 1:43:01 !!! [CE][DE] DynamicEvent "InfectedNBCYellow" has no children defined, at least one is required for this type of event.
+ 1:43:01 !!!!!! [CE][DE] DynamicEvent "InfectedNBCYellow" setup is invalid, event will be disabled.
+ 1:43:01 [CE][LootRespawner] (PRIDummy) :: Initially (re)spawned:0, Nominal:15174, Total in Map: 15260 at 0 (sec)
+ 1:43:01   tests:0, repeats:0 fails:0, overtime:0
+ 1:43:01 [CE][DynEvent] :: 52 types
+ 1:43:01 [00] AmbientHen
+ 1:43:01   Primary Spawner: "Ambient", active: yes, repeat: 1
+ 1:43:01 [01] AnimalBear
+ 1:43:01   Primary Spawner: "Animal", active: yes, repeat: 1
+ 1:43:01 [02] AnimalCow
+ 1:43:01   Primary Spawner: "Animal", active: yes, repeat: 1
+ 1:43:01 [03] AnimalDeer
+ 1:43:01   Primary Spawner: "Animal", active: yes, repeat: 1
+ 1:43:01 [04] AnimalGoat
+ 1:43:01   Primary Spawner: "Animal", active: yes, repeat: 1
+ 1:43:01 [05] AnimalPig
+ 1:43:01   Primary Spawner: "Animal", active: yes, repeat: 1
+ 1:43:01 [06] AnimalRoeDeer
+ 1:43:01   Primary Spawner: "Animal", active: yes, repeat: 1
+ 1:43:01 [07] AnimalSheep
+ 1:43:01   Primary Spawner: "Animal", active: yes, repeat: 1
+ 1:43:01 [08] AnimalWildBoar
+ 1:43:01   Primary Spawner: "Animal", active: yes, repeat: 1
+ 1:43:01 [09] AnimalWolf
+ 1:43:01   Primary Spawner: "Animal", active: yes, repeat: 1
+ 1:43:01 [10] InfectedArmy
+ 1:43:01   Primary Spawner: "Infected", active: yes, repeat: 1
+ 1:43:01 [11] InfectedArmyConvoy
+ 1:43:01   Primary Spawner: "Infected", active: yes, repeat: 1
+ 1:43:01 [12] InfectedArmyHard
+ 1:43:01   Primary Spawner: "Infected", active: yes, repeat: 1
+ 1:43:01 [13] InfectedCity
+ 1:43:01   Primary Spawner: "Infected", active: yes, repeat: 1
+ 1:43:01 [14] InfectedFirefighter
+ 1:43:01   Primary Spawner: "Infected", active: yes, repeat: 1
+ 1:43:01 [15] InfectedIndustrial
+ 1:43:01   Primary Spawner: "Infected", active: yes, repeat: 1
+ 1:43:01 [16] InfectedMedic
+ 1:43:01   Primary Spawner: "Infected", active: yes, repeat: 1
+ 1:43:01 [17] InfectedNBC
+ 1:43:01   Primary Spawner: "Infected", active: yes, repeat: 1
+ 1:43:01 [18] InfectedNBCYellow
+ 1:43:01   Primary Spawner: "Infected", active: no, repeat: 1
+ 1:43:01 [19] InfectedPolice
+ 1:43:01   Primary Spawner: "Infected", active: yes, repeat: 1
+ 1:43:01 [20] InfectedPoliceHard
+ 1:43:01   Primary Spawner: "Infected", active: yes, repeat: 1
+ 1:43:01 [21] InfectedPrisoner
+ 1:43:01   Primary Spawner: "Infected", active: yes, repeat: 1
+ 1:43:01 [22] InfectedReligious
+ 1:43:01   Primary Spawner: "Infected", active: yes, repeat: 1
+ 1:43:01 [23] InfectedSanta
+ 1:43:01   Primary Spawner: "Infected", active: yes, repeat: 1
+ 1:43:01 [24] InfectedSolitude
+ 1:43:01   Primary Spawner: "Infected", active: yes, repeat: 1
+ 1:43:01 [25] InfectedVillage
+ 1:43:01   Primary Spawner: "Infected", active: yes, repeat: 1
+ 1:43:01 [26] ItemPlanks
+ 1:43:01   Primary Spawner: "Item", active: yes, repeat: 1
+ 1:43:01 [27] Loot
+ 1:43:01   Primary Spawner: "Loot", active: yes, repeat: 2
+ 1:43:01 [28] StaticContaminatedArea
+ 1:43:01   Primary Spawner: "Static", active: yes, repeat: 1
+ 1:43:01 [29] StaticHeliCrash
+ 1:43:01   Primary Spawner: "Static", active: yes, repeat: 1
+ 1:43:01   Secondary Spawner: "Infected", active: yes, repeat: 1
+ 1:43:01 [30] StaticMilitaryConvoy
+ 1:43:01   Primary Spawner: "Static", active: yes, repeat: 1
+ 1:43:01   Secondary Spawner: "Infected", active: yes, repeat: 1
+ 1:43:01 [31] StaticPoliceSituation
+ 1:43:01   Primary Spawner: "Static", active: yes, repeat: 1
+ 1:43:01   Secondary Spawner: "Infected", active: yes, repeat: 1
+ 1:43:01 [32] StaticTrain
+ 1:43:01   Primary Spawner: "Static", active: yes, repeat: 1
+ 1:43:01   Secondary Spawner: "Infected", active: yes, repeat: 1
+ 1:43:01 [33] TrajectoryConiferous
+ 1:43:01   Primary Spawner: "Trajectory", active: yes, repeat: 1
+ 1:43:01 [34] TrajectoryDeciduous
+ 1:43:01   Primary Spawner: "Trajectory", active: yes, repeat: 1
+ 1:43:01 [35] TrajectoryHumus
+ 1:43:01   Primary Spawner: "Trajectory", active: yes, repeat: 1
+ 1:43:01 [36] TrajectoryStones
+ 1:43:01   Primary Spawner: "Trajectory", active: yes, repeat: 1
+ 1:43:01 [37] VehicleCivilianSedan
+ 1:43:01   Primary Spawner: "Vehicle", active: yes, repeat: 1

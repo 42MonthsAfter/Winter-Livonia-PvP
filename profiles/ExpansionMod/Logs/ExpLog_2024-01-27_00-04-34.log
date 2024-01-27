@@ -1,0 +1,9 @@
+00:04:35.118 [AI Object Patrol] Generating default Object Patrol config for enoch
+00:04:35.118 [AI Patrol] Generating default Patrol config for enoch
+00:04:53.963 [VehicleDestroyed] ExpansionUh1h (id=ED7624656B4C50A42C4A86BF665A3BBD pos=<7924.914551, 169.443634, 11833.564453>)
+00:04:54.438 [VehicleDestroyed] ExpansionUh1h_Uber (id=6311E6E9224714DA60F49DA7B9AEACFA pos=<1227.749023, 169.345047, 7566.625977>)
+00:09:50.392 [MissionAirdrop] An airdrop is heading towards "Dolnik" (pos=<11491.000000, 0.000000, 763.000000> type=Random_Dolnik) with a ExpansionAirdropContainer_Medical
+00:32:41.264 [Expansion Quests] - InitQuestSystemClient - Created new persistent player quest data for player UID: mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=
+00:32:41.264 [Expansion Quests] - LoadGroupQuestData - Created new persistent group quest data for group with ID: -1
+00:32:41.273 [Expansion Quests] - CompleteQuest - Player with UID mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY= has completed quest 14
+00:33:04.592 [SpawnSelection] Player "[Admin] Bunker" (id=mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=) spawned at <8294.539063, 174.662094, 11968.569336>
