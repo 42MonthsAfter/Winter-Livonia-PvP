@@ -1,0 +1,13 @@
+12:05:55.179 [MissionAirdrop] An airdrop is heading towards "Muratyn" (pos=<4559.000000, 0.000000, 6852.000000> type=Random_Muratyn) with a ExpansionAirdropContainer_Basebuilding
+13:06:45.542 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU=
+13:06:45.542 [Expansion Quests] - LoadGroupQuestData - Created new persistent group quest data for group with ID: -1
+13:06:45.542 [Expansion Quests] - Create new quest instance for quest: 8 - Player UID: OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU=
+13:06:45.542 [Expansion Quests] - Create new quest instance for quest: 9 - Player UID: OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU=
+13:06:45.542 [Expansion Quests] - Create new quest instance for quest: 11 - Player UID: OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU=
+13:08:07.492 [VehicleDestroyed] ExpansionUh1h_Uber (id=451DBE6183495CEACFBB568F963402F4 pos=<7924.769043, 169.286560, 11833.869141>)
+13:31:27.269 [MissionAirdrop] An airdrop is heading towards "Dolnik" (pos=<11491.000000, 0.000000, 763.000000> type=Random_Dolnik) with a ExpansionAirdropContainer_Basebuilding
+13:40:44.601 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=
+13:40:44.601 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: -1
+13:40:44.601 [Expansion Quests] - Create new quest instance for quest: 8 - Player UID: mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=
+13:40:44.601 [Expansion Quests] - Create new quest instance for quest: 9 - Player UID: mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=
+13:40:44.601 [Expansion Quests] - Create new quest instance for quest: 11 - Player UID: mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=

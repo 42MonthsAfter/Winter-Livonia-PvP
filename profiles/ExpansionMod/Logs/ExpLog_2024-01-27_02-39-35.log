@@ -1,0 +1,11 @@
+02:44:53.187 [MissionAirdrop] An airdrop is heading towards "Muratyn" (pos=<4559.000000, 0.000000, 6852.000000> type=Random_Muratyn) with a ExpansionAirdropContainer_Military
+03:12:15.058 [Expansion Quests] - InitQuestSystemClient - Created new persistent player quest data for player UID: OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU=
+03:12:15.058 [Expansion Quests] - LoadGroupQuestData - Created new persistent group quest data for group with ID: -1
+03:12:15.060 [AI Patrol] Spawning 3 West bots at <4233.515137, 238.160004, 10445.798828>
+03:12:15.077 [AI Patrol] Spawning 1 West bots at <4050.230469, 238.160675, 10306.229492>
+03:12:15.091 [Expansion Quests] - CompleteQuest - Player with UID OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU= has completed quest 14
+03:12:20.812 [SpawnSelection] Player "Bluecollarboys" (id=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU=) spawned at <8553.800781, 187.723114, 12174.582031>
+03:13:41.474 [VehicleDestroyed] ExpansionUh1h_Medical (id=32B48BB6A147F769DF39479662DA7868 pos=<1227.744873, 169.336639, 7566.603027>)
+03:13:41.481 [VehicleDestroyed] ExpansionUh1h_Medical (id=8507F505AD42978536DA748475FD1A8B pos=<7924.164551, 169.512085, 11833.957031>)
+04:10:03.276 [MissionAirdrop] An airdrop is heading towards "Muratyn" (pos=<4559.000000, 0.000000, 6852.000000> type=Random_Muratyn) with a ExpansionAirdropContainer_Military
+05:35:25.281 [MissionAirdrop] An airdrop is heading towards "Dolnik" (pos=<11491.000000, 0.000000, 763.000000> type=Random_Dolnik) with a ExpansionAirdropContainer_Military

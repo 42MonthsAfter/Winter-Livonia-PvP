@@ -1,0 +1,243 @@
+---------------------------------------------
+Log C:\Users\rylic\OneDrive\Documents\Winter-Livonia\servers\Production\profiles\crash_2024-01-27_14-11-06.log started at 27.01. 14:11:34
+
+
+
+------------------------------------
+WINTER-LIVONIA-, 27.01 2024 14:11:34
+
+Invalid formation name Line
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\classes\formations\eaiformation.c:117
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\classes\patrols\patrolmanager.c:122
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\classes\patrols\patrolmanager.c:24
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\classes\patrols\eaidynamicpatrolspawner.c:28
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\entities\buildings\buildingbase.c:59
+
+Runtime mode
+CLI params: config serverDZ.cfg.active port 2302 profiles profiles adminlog  freezecheck  dologs  mod @CF;@Community-Online-Tools;@DayZ-Expansion-Licensed;@DayZ-Expansion-Bundle;@Dabs Framework;@DayZ Editor Loader;@Winter Chernarus V2;@Winter Livonia;@GameLabs; 
+
+
+------------------------------------
+WINTER-LIVONIA-, 27.01 2024 14:11:34
+
+Invalid formation name Line
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\classes\formations\eaiformation.c:117
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\classes\patrols\patrolmanager.c:122
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\classes\patrols\patrolmanager.c:24
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\classes\patrols\eaidynamicpatrolspawner.c:28
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\entities\buildings\buildingbase.c:59
+
+Runtime mode
+CLI params: config serverDZ.cfg.active port 2302 profiles profiles adminlog  freezecheck  dologs  mod @CF;@Community-Online-Tools;@DayZ-Expansion-Licensed;@DayZ-Expansion-Bundle;@Dabs Framework;@DayZ Editor Loader;@Winter Chernarus V2;@Winter Livonia;@GameLabs; 
+
+
+------------------------------------
+WINTER-LIVONIA-, 27.01 2024 14:11:34
+
+Invalid formation name Line
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\classes\formations\eaiformation.c:117
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\classes\patrols\patrolmanager.c:122
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\classes\patrols\patrolmanager.c:24
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\classes\patrols\eaidynamicpatrolspawner.c:28
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\entities\buildings\buildingbase.c:59
+
+Runtime mode
+CLI params: config serverDZ.cfg.active port 2302 profiles profiles adminlog  freezecheck  dologs  mod @CF;@Community-Online-Tools;@DayZ-Expansion-Licensed;@DayZ-Expansion-Bundle;@Dabs Framework;@DayZ Editor Loader;@Winter Chernarus V2;@Winter Livonia;@GameLabs; 
+
+
+------------------------------------
+WINTER-LIVONIA-, 27.01 2024 14:11:37
+
+Invalid formation name Line
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\classes\formations\eaiformation.c:117
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\classes\patrols\patrolmanager.c:122
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\classes\patrols\patrolmanager.c:24
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\classes\patrols\eaidynamicpatrolspawner.c:28
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\entities\buildings\buildingbase.c:28
+scripts/3_Game/dayzgame.c:2821
+GameLabs/Scripts/3_Game/3_Hooking/ђръзѝѐ*Рћђ.rtm:7
+JM/CF/Scripts/3_Game/communityframework\game\dayzgame.c:23
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\dayzgame.c:244
+
+Runtime mode
+CLI params: config serverDZ.cfg.active port 2302 profiles profiles adminlog  freezecheck  dologs  mod @CF;@Community-Online-Tools;@DayZ-Expansion-Licensed;@DayZ-Expansion-Bundle;@Dabs Framework;@DayZ Editor Loader;@Winter Chernarus V2;@Winter Livonia;@GameLabs; 
+
+
+------------------------------------
+WINTER-LIVONIA-, 27.01 2024 14:11:37
+
+Invalid formation name Line
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\classes\formations\eaiformation.c:117
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\classes\patrols\patrolmanager.c:122
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\classes\patrols\patrolmanager.c:24
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\classes\patrols\eaidynamicpatrolspawner.c:28
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\entities\buildings\buildingbase.c:28
+scripts/3_Game/dayzgame.c:2821
+GameLabs/Scripts/3_Game/3_Hooking/ђръзѝѐ*Рћђ.rtm:7
+JM/CF/Scripts/3_Game/communityframework\game\dayzgame.c:23
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\dayzgame.c:244
+
+Runtime mode
+CLI params: config serverDZ.cfg.active port 2302 profiles profiles adminlog  freezecheck  dologs  mod @CF;@Community-Online-Tools;@DayZ-Expansion-Licensed;@DayZ-Expansion-Bundle;@Dabs Framework;@DayZ Editor Loader;@Winter Chernarus V2;@Winter Livonia;@GameLabs; 
+
+
+------------------------------------
+WINTER-LIVONIA-, 27.01 2024 14:11:37
+
+Invalid formation name Line
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\classes\formations\eaiformation.c:117
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\classes\patrols\patrolmanager.c:122
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\classes\patrols\patrolmanager.c:24
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\classes\patrols\eaidynamicpatrolspawner.c:28
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\entities\buildings\buildingbase.c:28
+scripts/3_Game/dayzgame.c:2821
+GameLabs/Scripts/3_Game/3_Hooking/ђръзѝѐ*Рћђ.rtm:7
+JM/CF/Scripts/3_Game/communityframework\game\dayzgame.c:23
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\dayzgame.c:244
+
+Runtime mode
+CLI params: config serverDZ.cfg.active port 2302 profiles profiles adminlog  freezecheck  dologs  mod @CF;@Community-Online-Tools;@DayZ-Expansion-Licensed;@DayZ-Expansion-Bundle;@Dabs Framework;@DayZ Editor Loader;@Winter Chernarus V2;@Winter Livonia;@GameLabs; 
+
+
+------------------------------------
+WINTER-LIVONIA-, 27.01 2024 14:11:37
+
+Invalid formation name Line
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\classes\formations\eaiformation.c:117
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\classes\patrols\patrolmanager.c:122
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\classes\patrols\patrolmanager.c:24
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\classes\patrols\eaidynamicpatrolspawner.c:28
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\entities\buildings\buildingbase.c:28
+scripts/3_Game/dayzgame.c:2821
+GameLabs/Scripts/3_Game/3_Hooking/ђръзѝѐ*Рћђ.rtm:7
+JM/CF/Scripts/3_Game/communityframework\game\dayzgame.c:23
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\dayzgame.c:244
+
+Runtime mode
+CLI params: config serverDZ.cfg.active port 2302 profiles profiles adminlog  freezecheck  dologs  mod @CF;@Community-Online-Tools;@DayZ-Expansion-Licensed;@DayZ-Expansion-Bundle;@Dabs Framework;@DayZ Editor Loader;@Winter Chernarus V2;@Winter Livonia;@GameLabs; 
+
+
+------------------------------------
+WINTER-LIVONIA-, 27.01 2024 14:11:37
+
+Invalid formation name Line
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\classes\formations\eaiformation.c:117
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\classes\patrols\patrolmanager.c:122
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\classes\patrols\patrolmanager.c:24
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\classes\patrols\eaidynamicpatrolspawner.c:28
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\entities\buildings\buildingbase.c:28
+scripts/3_Game/dayzgame.c:2821
+GameLabs/Scripts/3_Game/3_Hooking/ђръзѝѐ*Рћђ.rtm:7
+JM/CF/Scripts/3_Game/communityframework\game\dayzgame.c:23
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\dayzgame.c:244
+
+Runtime mode
+CLI params: config serverDZ.cfg.active port 2302 profiles profiles adminlog  freezecheck  dologs  mod @CF;@Community-Online-Tools;@DayZ-Expansion-Licensed;@DayZ-Expansion-Bundle;@Dabs Framework;@DayZ Editor Loader;@Winter Chernarus V2;@Winter Livonia;@GameLabs; 
+
+
+------------------------------------
+WINTER-LIVONIA-, 27.01 2024 14:11:37
+
+Invalid formation name Line
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\classes\formations\eaiformation.c:117
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\classes\patrols\patrolmanager.c:122
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\classes\patrols\patrolmanager.c:24
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\classes\patrols\eaidynamicpatrolspawner.c:28
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\entities\buildings\buildingbase.c:28
+scripts/3_Game/dayzgame.c:2821
+GameLabs/Scripts/3_Game/3_Hooking/ђръзѝѐ*Рћђ.rtm:7
+JM/CF/Scripts/3_Game/communityframework\game\dayzgame.c:23
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\dayzgame.c:244
+
+Runtime mode
+CLI params: config serverDZ.cfg.active port 2302 profiles profiles adminlog  freezecheck  dologs  mod @CF;@Community-Online-Tools;@DayZ-Expansion-Licensed;@DayZ-Expansion-Bundle;@Dabs Framework;@DayZ Editor Loader;@Winter Chernarus V2;@Winter Livonia;@GameLabs; 
+
+
+------------------------------------
+WINTER-LIVONIA-, 27.01 2024 14:11:37
+
+Invalid formation name Line
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\classes\formations\eaiformation.c:117
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\classes\patrols\patrolmanager.c:122
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\classes\patrols\patrolmanager.c:24
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\classes\patrols\eaidynamicpatrolspawner.c:28
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\entities\buildings\buildingbase.c:28
+scripts/3_Game/dayzgame.c:2821
+GameLabs/Scripts/3_Game/3_Hooking/ђръзѝѐ*Рћђ.rtm:7
+JM/CF/Scripts/3_Game/communityframework\game\dayzgame.c:23
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\dayzgame.c:244
+
+Runtime mode
+CLI params: config serverDZ.cfg.active port 2302 profiles profiles adminlog  freezecheck  dologs  mod @CF;@Community-Online-Tools;@DayZ-Expansion-Licensed;@DayZ-Expansion-Bundle;@Dabs Framework;@DayZ Editor Loader;@Winter Chernarus V2;@Winter Livonia;@GameLabs; 
+
+
+------------------------------------
+WINTER-LIVONIA-, 27.01 2024 14:11:37
+
+Invalid formation name Line
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\classes\formations\eaiformation.c:117
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\classes\patrols\patrolmanager.c:122
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\classes\patrols\patrolmanager.c:24
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\classes\patrols\eaidynamicpatrolspawner.c:28
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\entities\buildings\buildingbase.c:28
+scripts/3_Game/dayzgame.c:2821
+GameLabs/Scripts/3_Game/3_Hooking/ђръзѝѐ*Рћђ.rtm:7
+JM/CF/Scripts/3_Game/communityframework\game\dayzgame.c:23
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\dayzgame.c:244
+
+Runtime mode
+CLI params: config serverDZ.cfg.active port 2302 profiles profiles adminlog  freezecheck  dologs  mod @CF;@Community-Online-Tools;@DayZ-Expansion-Licensed;@DayZ-Expansion-Bundle;@Dabs Framework;@DayZ Editor Loader;@Winter Chernarus V2;@Winter Livonia;@GameLabs; 
+
+
+------------------------------------
+WINTER-LIVONIA-, 27.01 2024 14:11:37
+
+Invalid formation name Line
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\classes\formations\eaiformation.c:117
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\classes\patrols\patrolmanager.c:122
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\classes\patrols\patrolmanager.c:24
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\classes\patrols\eaidynamicpatrolspawner.c:28
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\entities\buildings\buildingbase.c:28
+scripts/3_Game/dayzgame.c:2821
+GameLabs/Scripts/3_Game/3_Hooking/ђръзѝѐ*Рћђ.rtm:7
+JM/CF/Scripts/3_Game/communityframework\game\dayzgame.c:23
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\dayzgame.c:244
+
+Runtime mode
+CLI params: config serverDZ.cfg.active port 2302 profiles profiles adminlog  freezecheck  dologs  mod @CF;@Community-Online-Tools;@DayZ-Expansion-Licensed;@DayZ-Expansion-Bundle;@Dabs Framework;@DayZ Editor Loader;@Winter Chernarus V2;@Winter Livonia;@GameLabs; 

@@ -11,7 +11,7 @@
     "Radius": 1.0,
     "InfectedSpawnRadius": 50.0,
     "InfectedSpawnInterval": 250,
-    "ItemCount": 50,
+    "ItemCount": 20,
     "Containers": [
         {
             "Container": "ExpansionAirdropContainer",
