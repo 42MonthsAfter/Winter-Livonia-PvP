@@ -1,0 +1,9 @@
+14:52:38.089 [VehicleDestroyed] ExpansionUh1h_Resistance (id=B8DD0201F04D6B72E6B8118658A3E3A5 pos=<7924.725586, 169.373627, 11833.682617>)
+15:00:02.750 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=
+15:00:02.750 [Expansion Quests] - LoadGroupQuestData - Created new persistent group quest data for group with ID: -1
+15:00:02.750 [Expansion Quests] - Create new quest instance for quest: 8 - Player UID: mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=
+15:00:02.750 [Expansion Quests] - Create new quest instance for quest: 9 - Player UID: mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=
+15:00:02.750 [Expansion Quests] - Create new quest instance for quest: 11 - Player UID: mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=
+15:00:10.507 [SpawnSelection] Player "[Admin] Bunker" (id=mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=) spawned at <3028.617432, 271.855133, 12067.580078>
+15:05:13.636 [MissionAirdrop] An airdrop is heading towards "Karlin" (pos=<9975.000000, 0.000000, 7242.000000> type=Random_Karlin) with a ExpansionAirdropContainer_Military
+15:05:23.628 [MissionAirdrop] An airdrop is heading towards "Gieraltow" (pos=<10899.000000, 0.000000, 4515.000000> type=Random_Gieraltow) with a ExpansionAirdropContainer_Military

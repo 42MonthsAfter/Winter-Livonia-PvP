@@ -1,2 +1,30 @@
 14:11:35.167 [VehicleDestroyed] ExpansionUh1h_Medical (id=718C55FC764B98C4598642A45285A6EE pos=<1229.970459, 168.826904, 7566.883789>)
 14:11:35.925 [VehicleDeleted] ExpansionUh1h_Medical (id=0C150A7E0B437D12761D6987C9B298BB pos=<1229.970459, 168.826904, 7566.883789>)
+14:16:41.914 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU=
+14:16:41.914 [Expansion Quests] - LoadGroupQuestData - Created new persistent group quest data for group with ID: -1
+14:16:41.914 [Expansion Quests] - Create new quest instance for quest: 8 - Player UID: OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU=
+14:16:41.914 [Expansion Quests] - Create new quest instance for quest: 9 - Player UID: OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU=
+14:16:41.914 [Expansion Quests] - Create new quest instance for quest: 11 - Player UID: OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU=
+14:16:51.886 [SpawnSelection] Player "(ADMIN)BLUE" (id=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU=) spawned at <6426.084473, 201.526901, 11602.169922>
+14:16:52.003 [AI Patrol] Spawning 3 Shamans bots at <6593.874023, 174.664993, 11082.283203>
+14:18:04.785 [VehicleDestroyed] ExpansionUh1h_Resistance (id=6D794F72414F73044C991C9714A88B6A pos=<7924.721191, 169.323730, 11833.810547>)
+14:21:48.000 [MissionAirdrop] An airdrop is heading towards "Radunin" (pos=<7209.000000, 0.000000, 6073.000000> type=Random_Radunin) with a ExpansionAirdropContainer_Basebuilding
+14:21:58.000 [MissionAirdrop] An airdrop is heading towards "Muratyn" (pos=<4559.000000, 0.000000, 6852.000000> type=Random_Muratyn) with a ExpansionAirdropContainer
+14:23:59.054 [VehicleDeleted] ExpansionUh1h_Resistance (id=6D794F72414F73044C991C9714A88B6A pos=<7924.558594, 169.325134, 11833.790039>)
+14:25:43.582 [VehicleDestroyed] ExpansionUh1h_Uber (id=C3D07F4AD544FE86934C12BD3EFE865B pos=<7924.539063, 169.434647, 11833.888672>)
+14:27:38.757 [AI Patrol] Spawning 3 Shamans bots at <7421.852539, 227.028641, 6348.759277>
+14:27:38.773 [AI Patrol] Spawning 3 Shamans bots at <7702.125000, 236.694733, 5900.156738>
+14:27:38.789 [AI Patrol] Spawning 3 Shamans bots at <7742.317871, 245.461304, 5930.870117>
+14:27:38.804 [AI Patrol] Spawning 3 Shamans bots at <7486.648438, 227.929398, 6120.994141>
+14:27:38.820 [AI Patrol] Spawning 3 Shamans bots at <7902.574219, 261.697845, 6026.059082>
+14:27:38.832 [AI Patrol] Spawning 3 Shamans bots at <7685.020996, 240.427368, 6062.897949>
+14:28:34.941 [AI Patrol] Spawning 3 Shamans bots at <7094.683594, 277.362610, 5629.538574>
+14:31:36.546 [VehicleDeleted] ExpansionUh1h_Uber (id=C3D07F4AD544FE86934C12BD3EFE865B pos=<7925.126953, 169.054779, 11835.445313>)
+14:32:27.496 [Killfeed] (ADMIN)BLUE got killed by Survivor (Shamans) with KAS-74U from a distance of 20 m.
+14:32:55.179 [SpawnSelection] Player "(ADMIN)BLUE" (id=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU=) spawned at <10829.276367, 173.663818, 11294.203125>
+14:33:46.500 [VehicleDestroyed] ExpansionUh1h (id=B878B06A044166AE303E84A71131C2A8 pos=<1227.748535, 169.336090, 7566.606445>)
+14:35:02.238 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU=
+14:35:02.238 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: -1
+14:35:02.238 [Expansion Quests] - Create new quest instance for quest: 8 - Player UID: OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU=
+14:35:02.238 [Expansion Quests] - Create new quest instance for quest: 9 - Player UID: OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU=
+14:35:02.238 [Expansion Quests] - Create new quest instance for quest: 11 - Player UID: OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU=

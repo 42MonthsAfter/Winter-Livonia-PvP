@@ -1,0 +1,8 @@
+15:46:41.382 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: PzpR7GjHiWspOSpWM7R-eL-8LJXJv3V9Q-C3PyG2biU=
+15:46:41.382 [Expansion Quests] - LoadGroupQuestData - Created new persistent group quest data for group with ID: -1
+15:46:41.382 [Expansion Quests] - Create new quest instance for quest: 8 - Player UID: PzpR7GjHiWspOSpWM7R-eL-8LJXJv3V9Q-C3PyG2biU=
+15:46:41.382 [Expansion Quests] - Create new quest instance for quest: 9 - Player UID: PzpR7GjHiWspOSpWM7R-eL-8LJXJv3V9Q-C3PyG2biU=
+15:46:41.382 [Expansion Quests] - Create new quest instance for quest: 11 - Player UID: PzpR7GjHiWspOSpWM7R-eL-8LJXJv3V9Q-C3PyG2biU=
+15:47:27.820 [VehicleDestroyed] ExpansionUh1h (id=61B683E47B45E068F9039887323FFEA9 pos=<7924.676758, 169.624969, 11833.683594>)
+15:51:45.746 [MissionAirdrop] An airdrop is heading towards "Muratyn" (pos=<4559.000000, 0.000000, 6852.000000> type=Random_Muratyn) with a ExpansionAirdropContainer_Military
+15:51:55.742 [MissionAirdrop] An airdrop is heading towards "Gieraltow" (pos=<10899.000000, 0.000000, 4515.000000> type=Random_Gieraltow) with a ExpansionAirdropContainer_Basebuilding

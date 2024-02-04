@@ -1,10 +1,10 @@
 ---------------------------------------------
-Log C:\Users\rylic\OneDrive\Documents\Winter-Livonia\servers\Production\profiles\crash_2024-01-27_14-11-06.log started at 27.01. 14:11:34
+Log C:\Users\rylic\OneDrive\Documents\Winter-Livonia\servers\Production\profiles\crash_2024-02-04_12-00-29.log started at 04.02. 12:01:03
 
 
 
 ------------------------------------
-WINTER-LIVONIA-, 27.01 2024 14:11:34
+WINTER-LIVONIA-, 04.02 2024 12:01:03
 
 Invalid formation name Line
 Function: 'Error'
@@ -17,11 +17,11 @@ DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\classes\patrols\eaidynamicpatr
 DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\entities\buildings\buildingbase.c:59
 
 Runtime mode
-CLI params: config serverDZ.cfg.active port 2302 profiles profiles adminlog  freezecheck  dologs  mod @CF;@Community-Online-Tools;@DayZ-Expansion-Licensed;@DayZ-Expansion-Bundle;@Dabs Framework;@DayZ Editor Loader;@Winter Chernarus V2;@Winter Livonia;@GameLabs; 
+CLI params: config serverDZ.cfg.active port 2302 profiles profiles adminlog  freezecheck  dologs  mod @CF;@Community-Online-Tools;@DayZ-Expansion-Licensed;@DayZ-Expansion-Bundle;@Dabs Framework;@DayZ Editor Loader;@Winter Chernarus V2;@Winter Livonia;@GameLabs;@42 Months After Winter Livonia Mod Pack;@FlipTransport; 
 
 
 ------------------------------------
-WINTER-LIVONIA-, 27.01 2024 14:11:34
+WINTER-LIVONIA-, 04.02 2024 12:01:03
 
 Invalid formation name Line
 Function: 'Error'
@@ -34,11 +34,11 @@ DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\classes\patrols\eaidynamicpatr
 DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\entities\buildings\buildingbase.c:59
 
 Runtime mode
-CLI params: config serverDZ.cfg.active port 2302 profiles profiles adminlog  freezecheck  dologs  mod @CF;@Community-Online-Tools;@DayZ-Expansion-Licensed;@DayZ-Expansion-Bundle;@Dabs Framework;@DayZ Editor Loader;@Winter Chernarus V2;@Winter Livonia;@GameLabs; 
+CLI params: config serverDZ.cfg.active port 2302 profiles profiles adminlog  freezecheck  dologs  mod @CF;@Community-Online-Tools;@DayZ-Expansion-Licensed;@DayZ-Expansion-Bundle;@Dabs Framework;@DayZ Editor Loader;@Winter Chernarus V2;@Winter Livonia;@GameLabs;@42 Months After Winter Livonia Mod Pack;@FlipTransport; 
 
 
 ------------------------------------
-WINTER-LIVONIA-, 27.01 2024 14:11:34
+WINTER-LIVONIA-, 04.02 2024 12:01:03
 
 Invalid formation name Line
 Function: 'Error'
@@ -51,11 +51,11 @@ DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\classes\patrols\eaidynamicpatr
 DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\entities\buildings\buildingbase.c:59
 
 Runtime mode
-CLI params: config serverDZ.cfg.active port 2302 profiles profiles adminlog  freezecheck  dologs  mod @CF;@Community-Online-Tools;@DayZ-Expansion-Licensed;@DayZ-Expansion-Bundle;@Dabs Framework;@DayZ Editor Loader;@Winter Chernarus V2;@Winter Livonia;@GameLabs; 
+CLI params: config serverDZ.cfg.active port 2302 profiles profiles adminlog  freezecheck  dologs  mod @CF;@Community-Online-Tools;@DayZ-Expansion-Licensed;@DayZ-Expansion-Bundle;@Dabs Framework;@DayZ Editor Loader;@Winter Chernarus V2;@Winter Livonia;@GameLabs;@42 Months After Winter Livonia Mod Pack;@FlipTransport; 
 
 
 ------------------------------------
-WINTER-LIVONIA-, 27.01 2024 14:11:37
+WINTER-LIVONIA-, 04.02 2024 12:01:04
 
 Invalid formation name Line
 Function: 'Error'
@@ -72,11 +72,11 @@ JM/CF/Scripts/3_Game/communityframework\game\dayzgame.c:23
 DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\dayzgame.c:244
 
 Runtime mode
-CLI params: config serverDZ.cfg.active port 2302 profiles profiles adminlog  freezecheck  dologs  mod @CF;@Community-Online-Tools;@DayZ-Expansion-Licensed;@DayZ-Expansion-Bundle;@Dabs Framework;@DayZ Editor Loader;@Winter Chernarus V2;@Winter Livonia;@GameLabs; 
+CLI params: config serverDZ.cfg.active port 2302 profiles profiles adminlog  freezecheck  dologs  mod @CF;@Community-Online-Tools;@DayZ-Expansion-Licensed;@DayZ-Expansion-Bundle;@Dabs Framework;@DayZ Editor Loader;@Winter Chernarus V2;@Winter Livonia;@GameLabs;@42 Months After Winter Livonia Mod Pack;@FlipTransport; 
 
 
 ------------------------------------
-WINTER-LIVONIA-, 27.01 2024 14:11:37
+WINTER-LIVONIA-, 04.02 2024 12:01:04
 
 Invalid formation name Line
 Function: 'Error'
@@ -93,11 +93,11 @@ JM/CF/Scripts/3_Game/communityframework\game\dayzgame.c:23
 DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\dayzgame.c:244
 
 Runtime mode
-CLI params: config serverDZ.cfg.active port 2302 profiles profiles adminlog  freezecheck  dologs  mod @CF;@Community-Online-Tools;@DayZ-Expansion-Licensed;@DayZ-Expansion-Bundle;@Dabs Framework;@DayZ Editor Loader;@Winter Chernarus V2;@Winter Livonia;@GameLabs; 
+CLI params: config serverDZ.cfg.active port 2302 profiles profiles adminlog  freezecheck  dologs  mod @CF;@Community-Online-Tools;@DayZ-Expansion-Licensed;@DayZ-Expansion-Bundle;@Dabs Framework;@DayZ Editor Loader;@Winter Chernarus V2;@Winter Livonia;@GameLabs;@42 Months After Winter Livonia Mod Pack;@FlipTransport; 
 
 
 ------------------------------------
-WINTER-LIVONIA-, 27.01 2024 14:11:37
+WINTER-LIVONIA-, 04.02 2024 12:01:04
 
 Invalid formation name Line
 Function: 'Error'
@@ -114,11 +114,11 @@ JM/CF/Scripts/3_Game/communityframework\game\dayzgame.c:23
 DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\dayzgame.c:244
 
 Runtime mode
-CLI params: config serverDZ.cfg.active port 2302 profiles profiles adminlog  freezecheck  dologs  mod @CF;@Community-Online-Tools;@DayZ-Expansion-Licensed;@DayZ-Expansion-Bundle;@Dabs Framework;@DayZ Editor Loader;@Winter Chernarus V2;@Winter Livonia;@GameLabs; 
+CLI params: config serverDZ.cfg.active port 2302 profiles profiles adminlog  freezecheck  dologs  mod @CF;@Community-Online-Tools;@DayZ-Expansion-Licensed;@DayZ-Expansion-Bundle;@Dabs Framework;@DayZ Editor Loader;@Winter Chernarus V2;@Winter Livonia;@GameLabs;@42 Months After Winter Livonia Mod Pack;@FlipTransport; 
 
 
 ------------------------------------
-WINTER-LIVONIA-, 27.01 2024 14:11:37
+WINTER-LIVONIA-, 04.02 2024 12:01:04
 
 Invalid formation name Line
 Function: 'Error'
@@ -135,11 +135,11 @@ JM/CF/Scripts/3_Game/communityframework\game\dayzgame.c:23
 DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\dayzgame.c:244
 
 Runtime mode
-CLI params: config serverDZ.cfg.active port 2302 profiles profiles adminlog  freezecheck  dologs  mod @CF;@Community-Online-Tools;@DayZ-Expansion-Licensed;@DayZ-Expansion-Bundle;@Dabs Framework;@DayZ Editor Loader;@Winter Chernarus V2;@Winter Livonia;@GameLabs; 
+CLI params: config serverDZ.cfg.active port 2302 profiles profiles adminlog  freezecheck  dologs  mod @CF;@Community-Online-Tools;@DayZ-Expansion-Licensed;@DayZ-Expansion-Bundle;@Dabs Framework;@DayZ Editor Loader;@Winter Chernarus V2;@Winter Livonia;@GameLabs;@42 Months After Winter Livonia Mod Pack;@FlipTransport; 
 
 
 ------------------------------------
-WINTER-LIVONIA-, 27.01 2024 14:11:37
+WINTER-LIVONIA-, 04.02 2024 12:01:04
 
 Invalid formation name Line
 Function: 'Error'
@@ -156,11 +156,11 @@ JM/CF/Scripts/3_Game/communityframework\game\dayzgame.c:23
 DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\dayzgame.c:244
 
 Runtime mode
-CLI params: config serverDZ.cfg.active port 2302 profiles profiles adminlog  freezecheck  dologs  mod @CF;@Community-Online-Tools;@DayZ-Expansion-Licensed;@DayZ-Expansion-Bundle;@Dabs Framework;@DayZ Editor Loader;@Winter Chernarus V2;@Winter Livonia;@GameLabs; 
+CLI params: config serverDZ.cfg.active port 2302 profiles profiles adminlog  freezecheck  dologs  mod @CF;@Community-Online-Tools;@DayZ-Expansion-Licensed;@DayZ-Expansion-Bundle;@Dabs Framework;@DayZ Editor Loader;@Winter Chernarus V2;@Winter Livonia;@GameLabs;@42 Months After Winter Livonia Mod Pack;@FlipTransport; 
 
 
 ------------------------------------
-WINTER-LIVONIA-, 27.01 2024 14:11:37
+WINTER-LIVONIA-, 04.02 2024 12:01:04
 
 Invalid formation name Line
 Function: 'Error'
@@ -177,11 +177,11 @@ JM/CF/Scripts/3_Game/communityframework\game\dayzgame.c:23
 DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\dayzgame.c:244
 
 Runtime mode
-CLI params: config serverDZ.cfg.active port 2302 profiles profiles adminlog  freezecheck  dologs  mod @CF;@Community-Online-Tools;@DayZ-Expansion-Licensed;@DayZ-Expansion-Bundle;@Dabs Framework;@DayZ Editor Loader;@Winter Chernarus V2;@Winter Livonia;@GameLabs; 
+CLI params: config serverDZ.cfg.active port 2302 profiles profiles adminlog  freezecheck  dologs  mod @CF;@Community-Online-Tools;@DayZ-Expansion-Licensed;@DayZ-Expansion-Bundle;@Dabs Framework;@DayZ Editor Loader;@Winter Chernarus V2;@Winter Livonia;@GameLabs;@42 Months After Winter Livonia Mod Pack;@FlipTransport; 
 
 
 ------------------------------------
-WINTER-LIVONIA-, 27.01 2024 14:11:37
+WINTER-LIVONIA-, 04.02 2024 12:01:04
 
 Invalid formation name Line
 Function: 'Error'
@@ -198,11 +198,11 @@ JM/CF/Scripts/3_Game/communityframework\game\dayzgame.c:23
 DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\dayzgame.c:244
 
 Runtime mode
-CLI params: config serverDZ.cfg.active port 2302 profiles profiles adminlog  freezecheck  dologs  mod @CF;@Community-Online-Tools;@DayZ-Expansion-Licensed;@DayZ-Expansion-Bundle;@Dabs Framework;@DayZ Editor Loader;@Winter Chernarus V2;@Winter Livonia;@GameLabs; 
+CLI params: config serverDZ.cfg.active port 2302 profiles profiles adminlog  freezecheck  dologs  mod @CF;@Community-Online-Tools;@DayZ-Expansion-Licensed;@DayZ-Expansion-Bundle;@Dabs Framework;@DayZ Editor Loader;@Winter Chernarus V2;@Winter Livonia;@GameLabs;@42 Months After Winter Livonia Mod Pack;@FlipTransport; 
 
 
 ------------------------------------
-WINTER-LIVONIA-, 27.01 2024 14:11:37
+WINTER-LIVONIA-, 04.02 2024 12:01:04
 
 Invalid formation name Line
 Function: 'Error'
@@ -219,11 +219,11 @@ JM/CF/Scripts/3_Game/communityframework\game\dayzgame.c:23
 DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\dayzgame.c:244
 
 Runtime mode
-CLI params: config serverDZ.cfg.active port 2302 profiles profiles adminlog  freezecheck  dologs  mod @CF;@Community-Online-Tools;@DayZ-Expansion-Licensed;@DayZ-Expansion-Bundle;@Dabs Framework;@DayZ Editor Loader;@Winter Chernarus V2;@Winter Livonia;@GameLabs; 
+CLI params: config serverDZ.cfg.active port 2302 profiles profiles adminlog  freezecheck  dologs  mod @CF;@Community-Online-Tools;@DayZ-Expansion-Licensed;@DayZ-Expansion-Bundle;@Dabs Framework;@DayZ Editor Loader;@Winter Chernarus V2;@Winter Livonia;@GameLabs;@42 Months After Winter Livonia Mod Pack;@FlipTransport; 
 
 
 ------------------------------------
-WINTER-LIVONIA-, 27.01 2024 14:11:37
+WINTER-LIVONIA-, 04.02 2024 12:01:04
 
 Invalid formation name Line
 Function: 'Error'
@@ -240,4 +240,80 @@ JM/CF/Scripts/3_Game/communityframework\game\dayzgame.c:23
 DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\dayzgame.c:244
 
 Runtime mode
-CLI params: config serverDZ.cfg.active port 2302 profiles profiles adminlog  freezecheck  dologs  mod @CF;@Community-Online-Tools;@DayZ-Expansion-Licensed;@DayZ-Expansion-Bundle;@Dabs Framework;@DayZ Editor Loader;@Winter Chernarus V2;@Winter Livonia;@GameLabs; 
+CLI params: config serverDZ.cfg.active port 2302 profiles profiles adminlog  freezecheck  dologs  mod @CF;@Community-Online-Tools;@DayZ-Expansion-Licensed;@DayZ-Expansion-Bundle;@Dabs Framework;@DayZ Editor Loader;@Winter Chernarus V2;@Winter Livonia;@GameLabs;@42 Months After Winter Livonia Mod Pack;@FlipTransport; 
+
+
+------------------------------------
+WINTER-LIVONIA-, 04.02 2024 12:01:15
+
+Invalid formation name Line
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\classes\formations\eaiformation.c:117
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\classes\patrols\patrolmanager.c:122
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\classes\patrols\patrolmanager.c:195
+scripts/3_Game/dayzgame.c:2821
+GameLabs/Scripts/3_Game/3_Hooking/ђръзѝѐ*Рћђ.rtm:7
+JM/CF/Scripts/3_Game/communityframework\game\dayzgame.c:23
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\dayzgame.c:244
+
+Runtime mode
+CLI params: config serverDZ.cfg.active port 2302 profiles profiles adminlog  freezecheck  dologs  mod @CF;@Community-Online-Tools;@DayZ-Expansion-Licensed;@DayZ-Expansion-Bundle;@Dabs Framework;@DayZ Editor Loader;@Winter Chernarus V2;@Winter Livonia;@GameLabs;@42 Months After Winter Livonia Mod Pack;@FlipTransport; 
+
+
+------------------------------------
+WINTER-LIVONIA-, 04.02 2024 12:01:15
+
+Invalid formation name Line
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\classes\formations\eaiformation.c:117
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\classes\patrols\patrolmanager.c:122
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\classes\patrols\patrolmanager.c:195
+scripts/3_Game/dayzgame.c:2821
+GameLabs/Scripts/3_Game/3_Hooking/ђръзѝѐ*Рћђ.rtm:7
+JM/CF/Scripts/3_Game/communityframework\game\dayzgame.c:23
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\dayzgame.c:244
+
+Runtime mode
+CLI params: config serverDZ.cfg.active port 2302 profiles profiles adminlog  freezecheck  dologs  mod @CF;@Community-Online-Tools;@DayZ-Expansion-Licensed;@DayZ-Expansion-Bundle;@Dabs Framework;@DayZ Editor Loader;@Winter Chernarus V2;@Winter Livonia;@GameLabs;@42 Months After Winter Livonia Mod Pack;@FlipTransport; 
+
+
+------------------------------------
+WINTER-LIVONIA-, 04.02 2024 12:01:15
+
+Invalid formation name Line
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\classes\formations\eaiformation.c:117
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\classes\patrols\patrolmanager.c:122
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\classes\patrols\patrolmanager.c:195
+scripts/3_Game/dayzgame.c:2821
+GameLabs/Scripts/3_Game/3_Hooking/ђръзѝѐ*Рћђ.rtm:7
+JM/CF/Scripts/3_Game/communityframework\game\dayzgame.c:23
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\dayzgame.c:244
+
+Runtime mode
+CLI params: config serverDZ.cfg.active port 2302 profiles profiles adminlog  freezecheck  dologs  mod @CF;@Community-Online-Tools;@DayZ-Expansion-Licensed;@DayZ-Expansion-Bundle;@Dabs Framework;@DayZ Editor Loader;@Winter Chernarus V2;@Winter Livonia;@GameLabs;@42 Months After Winter Livonia Mod Pack;@FlipTransport; 
+
+
+------------------------------------
+WINTER-LIVONIA-, 04.02 2024 12:01:15
+
+Invalid formation name Line
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\classes\formations\eaiformation.c:117
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\classes\patrols\patrolmanager.c:122
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\classes\patrols\patrolmanager.c:195
+scripts/3_Game/dayzgame.c:2821
+GameLabs/Scripts/3_Game/3_Hooking/ђръзѝѐ*Рћђ.rtm:7
+JM/CF/Scripts/3_Game/communityframework\game\dayzgame.c:23
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\dayzgame.c:244
+
+Runtime mode
+CLI params: config serverDZ.cfg.active port 2302 profiles profiles adminlog  freezecheck  dologs  mod @CF;@Community-Online-Tools;@DayZ-Expansion-Licensed;@DayZ-Expansion-Bundle;@Dabs Framework;@DayZ Editor Loader;@Winter Chernarus V2;@Winter Livonia;@GameLabs;@42 Months After Winter Livonia Mod Pack;@FlipTransport; 

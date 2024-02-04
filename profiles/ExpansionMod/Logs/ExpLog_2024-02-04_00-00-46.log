@@ -1,0 +1,6 @@
+00:01:02.666 [VehicleDestroyed] ExpansionUh1h_Resistance (id=09E43E09DA4872995DFC55A00B771682 pos=<7924.602539, 169.443283, 11833.307617>)
+00:01:03.536 [VehicleDeleted] ExpansionUh1h_Resistance (id=B8DD0201F04D6B72E6B8118658A3E3A5 pos=<7924.602539, 169.443283, 11833.307617>)
+00:06:33.512 [SpawnSelection] Player "[Admin] Bunker" (id=mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=) spawned at <3243.989258, 250.724686, 11933.792969>
+00:07:47.161 [VehicleDestroyed] ExpansionUh1h (id=115B80C74545A07FB0AA3BABD9CB2E69 pos=<1227.694214, 169.341003, 7566.567871>)
+00:11:25.492 [MissionAirdrop] An airdrop is heading towards "Karlin" (pos=<9975.000000, 0.000000, 7242.000000> type=Random_Karlin) with a ExpansionAirdropContainer_Military
+00:11:35.489 [MissionAirdrop] An airdrop is heading towards "Muratyn" (pos=<4559.000000, 0.000000, 6852.000000> type=Random_Muratyn) with a ExpansionAirdropContainer_Military

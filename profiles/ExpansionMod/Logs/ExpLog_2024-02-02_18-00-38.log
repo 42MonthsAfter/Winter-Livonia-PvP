@@ -1,0 +1,93 @@
+22:04:47.531 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU=
+22:04:47.531 [Expansion Quests] - LoadGroupQuestData - Created new persistent group quest data for group with ID: -1
+22:04:47.531 [Expansion Quests] - Create new quest instance for quest: 8 - Player UID: OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU=
+22:04:47.531 [Expansion Quests] - Create new quest instance for quest: 9 - Player UID: OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU=
+22:04:47.531 [Expansion Quests] - Create new quest instance for quest: 11 - Player UID: OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU=
+22:04:47.539 [AI Patrol] Spawning 3 Shamans bots at <7565.517578, 230.203156, 6130.031250>
+22:04:47.687 [AI Patrol] Spawning 3 Shamans bots at <7744.384766, 233.805374, 5747.954590>
+22:04:47.695 [AI Patrol] Spawning 3 Shamans bots at <7701.375977, 236.205505, 5886.875977>
+22:04:47.718 [AI Patrol] Spawning 3 Shamans bots at <7480.151855, 230.749939, 6374.166016>
+22:04:47.734 [AI Patrol] Spawning 3 Shamans bots at <7878.338867, 253.067368, 5929.721191>
+22:04:47.742 [AI Patrol] Spawning 3 Shamans bots at <8009.380859, 266.781403, 5945.510742>
+22:06:05.531 [VehicleDestroyed] ExpansionUh1h_Resistance (id=2851924505494FF746A72DBC8C8E74CB pos=<7924.686035, 169.449097, 11833.757813>)
+22:06:23.500 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU=
+22:06:23.500 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: -1
+22:06:23.500 [Expansion Quests] - Create new quest instance for quest: 8 - Player UID: OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU=
+22:06:23.500 [Expansion Quests] - Create new quest instance for quest: 9 - Player UID: OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU=
+22:06:23.500 [Expansion Quests] - Create new quest instance for quest: 11 - Player UID: OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU=
+22:06:56.328 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=
+22:06:56.328 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: -1
+22:06:56.328 [Expansion Quests] - Create new quest instance for quest: 8 - Player UID: KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=
+22:06:56.328 [Expansion Quests] - Create new quest instance for quest: 9 - Player UID: KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=
+22:06:56.328 [Expansion Quests] - Create new quest instance for quest: 11 - Player UID: KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=
+22:06:56.335 [AI Patrol] Spawning 3 Shamans bots at <6621.578613, 174.850296, 11099.526367>
+22:07:26.484 [Killfeed] Blue commited suicide with KAS-74U.
+22:07:34.070 [SpawnSelection] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=) spawned at <8350.314453, 202.867752, 12259.904297>
+22:08:15.992 [SpawnSelection] Player "Blue" (id=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU=) spawned at <8553.800781, 187.723114, 12174.582031>
+22:09:55.882 [MissionAirdrop] An airdrop is heading towards "Radunin" (pos=<7209.000000, 0.000000, 6073.000000> type=Random_Radunin) with a ExpansionAirdropContainer
+22:10:05.882 [MissionAirdrop] An airdrop is heading towards "Gieraltow" (pos=<10899.000000, 0.000000, 4515.000000> type=Random_Gieraltow) with a ExpansionAirdropContainer_Medical
+22:12:34.710 [VehicleDeleted] ExpansionUh1h_Resistance (id=2851924505494FF746A72DBC8C8E74CB pos=<7924.666016, 169.354309, 11833.682617>)
+22:13:05.648 [Party] Player "Blue" (id=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU=) joinded the party "ffff" (id=1 ownerUID= ownerName=)
+22:13:05.648 [Party] Player "Blue" (id=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU=) created a party named ffff (fgfgg)
+22:13:06.648 [Expansion Quests] - LoadGroupQuestData - Created new persistent group quest data for group with ID: 1
+22:13:11.921 [Party] Player "Blue" (id=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU=) invited the player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=)to the party named ffff
+22:13:28.937 [Party] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=) joinded the party "ffff" (id=1 ownerUID=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU= ownerName=Blue)
+22:13:29.937 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 1
+22:13:52.343 [VehicleDestroyed] ExpansionUh1h (id=FE5E6BF85D49D8E1CBB0AC8D4C7F664C pos=<1227.741699, 169.336807, 7566.601563>)
+22:19:45.109 [VehicleDeleted] ExpansionUh1h (id=FE5E6BF85D49D8E1CBB0AC8D4C7F664C pos=<1230.958374, 168.750381, 7566.910645>)
+22:21:06.117 [AI Patrol] Spawning 3 Shamans bots at <8049.837402, 206.186890, 10941.061523>
+22:21:55.015 [VehicleDestroyed] ExpansionUh1h_Resistance (id=D780CD8B43437C9F309CA2B17D9C89C1 pos=<7924.854004, 169.331818, 11834.029297>)
+22:27:13.062 [AI Patrol] Spawning 3 Shamans bots at <9234.284180, 198.143433, 11021.932617>
+22:27:49.312 [VehicleDeleted] ExpansionUh1h_Resistance (id=D780CD8B43437C9F309CA2B17D9C89C1 pos=<7924.943848, 169.355545, 11833.960938>)
+22:29:33.843 [VehicleDestroyed] ExpansionUh1h (id=569FE9209345D63FD80421829803A6E0 pos=<1227.724976, 169.336960, 7566.597168>)
+22:35:26.625 [VehicleDeleted] ExpansionUh1h (id=569FE9209345D63FD80421829803A6E0 pos=<1230.926758, 168.751724, 7566.915527>)
+22:37:36.546 [VehicleDestroyed] ExpansionUh1h (id=2B96C955F6401F1C22D3E2B8B0432DE0 pos=<1227.745239, 169.336548, 7566.603027>)
+22:43:30.859 [VehicleDeleted] ExpansionUh1h (id=2B96C955F6401F1C22D3E2B8B0432DE0 pos=<1231.041992, 168.747177, 7566.896973>)
+22:45:15.390 [VehicleDestroyed] ExpansionUh1h_Resistance (id=63FEBE150F482A0D99D799A934AC1AEA pos=<7924.764648, 169.290741, 11833.850586>)
+22:51:08.164 [VehicleDeleted] ExpansionUh1h_Resistance (id=63FEBE150F482A0D99D799A934AC1AEA pos=<7924.480957, 169.238449, 11834.109375>)
+22:53:18.093 [VehicleDestroyed] ExpansionUh1h (id=56146758834129BF4332D5A2FC41A7E1 pos=<7924.686035, 169.533508, 11833.788086>)
+22:59:12.398 [VehicleDeleted] ExpansionUh1h (id=56146758834129BF4332D5A2FC41A7E1 pos=<7924.711914, 169.370285, 11833.630859>)
+23:00:56.929 [VehicleDestroyed] ExpansionUh1h_Resistance (id=8C800C42AF465A24522FD68D1A755690 pos=<1227.723633, 169.336823, 7566.596191>)
+23:06:20.796 [Killfeed] Captain Chaos got killed by Blue with M4-A1 from a distance of 1 m.
+23:06:38.890 [Killfeed] Blue commited suicide with M4-A1.
+23:06:49.742 [VehicleDeleted] ExpansionUh1h_Resistance (id=8C800C42AF465A24522FD68D1A755690 pos=<1230.992310, 168.749512, 7566.903320>)
+23:07:03.078 [Party] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=) joinded the party "ffff" (id=1 ownerUID=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU= ownerName=Blue)
+23:07:04.070 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 1
+23:07:05.710 [Party] Player "Blue" (id=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU=) joinded the party "ffff" (id=1 ownerUID=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU= ownerName=Blue)
+23:07:06.703 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 1
+23:07:12.007 [SpawnSelection] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=) spawned at <10829.276367, 173.663818, 11294.203125>
+23:07:12.875 [SpawnSelection] Player "Blue" (id=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU=) spawned at <6116.879395, 185.599640, 11316.484375>
+23:08:59.703 [VehicleDestroyed] ExpansionUh1h_Resistance (id=6399D3F2D0440C9FD3695B98AD9D5B5C pos=<7924.886719, 169.408661, 11833.537109>)
+23:09:28.656 [Expansion Quests] - InitQuestSystemClient - Created new persistent player quest data for player UID: s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=
+23:09:28.656 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: -1
+23:09:28.664 [Expansion Quests] - CompleteQuest - Player with UID s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM= has completed quest 14
+23:10:04.562 [SpawnSelection] Player "MaxCaliber" (id=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=) spawned at <11212.156250, 197.501846, 11669.453125>
+23:10:10.593 [Party] Player "Blue" (id=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU=) left the party "ffff" (id=1 ownerUID=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU= ownerName=Blue)
+23:11:32.445 [Party] Player "Blue" (id=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU=) joinded the party "ffff" (id=1 ownerUID=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU= ownerName=Blue)
+23:11:32.453 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU=
+23:11:32.453 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 1
+23:11:32.453 [Expansion Quests] - Create new quest instance for quest: 8 - Player UID: OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU=
+23:11:32.453 [Expansion Quests] - Create new quest instance for quest: 9 - Player UID: OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU=
+23:11:32.453 [Expansion Quests] - Create new quest instance for quest: 11 - Player UID: OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU=
+23:11:33.437 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 1
+23:11:59.773 [Party] Player "Blue" (id=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU=) invited the player "MaxCaliber" (id=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=)to the party named ffff
+23:12:14.882 [Party] Player "MaxCaliber" (id=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=) joinded the party "ffff" (id=1 ownerUID=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU= ownerName=Blue)
+23:12:15.882 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 1
+23:14:53.953 [VehicleDeleted] ExpansionUh1h_Resistance (id=6399D3F2D0440C9FD3695B98AD9D5B5C pos=<7924.989258, 169.461929, 11833.539063>)
+23:16:38.500 [VehicleDestroyed] ExpansionUh1h_Uber (id=1ECB4EF07E432B7278EE00B1355EAF04 pos=<7924.592285, 169.309921, 11833.932617>)
+23:22:31.289 [VehicleDeleted] ExpansionUh1h_Uber (id=1ECB4EF07E432B7278EE00B1355EAF04 pos=<7924.326660, 169.262711, 11833.873047>)
+23:24:41.226 [VehicleDestroyed] ExpansionUh1h_Uber (id=8368D1243C46E3201CFAC2ADD88C0CEA pos=<7924.736816, 169.400391, 11833.607422>)
+23:30:35.500 [VehicleDeleted] ExpansionUh1h_Uber (id=8368D1243C46E3201CFAC2ADD88C0CEA pos=<7924.666504, 169.404327, 11833.530273>)
+23:32:20.039 [VehicleDestroyed] ExpansionUh1h_Uber (id=1C061C27414A83028A4006BA9B690430 pos=<1227.726074, 169.336990, 7566.597656>)
+23:36:18.882 [MissionAirdrop] An airdrop is heading towards "Brena" (pos=<6692.000000, 0.000000, 11442.000000> type=Random_Brena) with a ExpansionAirdropContainer_Military
+23:36:28.882 [MissionAirdrop] An airdrop is heading towards "Kolembrody" (pos=<8676.000000, 0.000000, 12114.000000> type=Random_Kolembrody) with a ExpansionAirdropContainer_Medical
+23:38:12.820 [VehicleDeleted] ExpansionUh1h_Uber (id=1C061C27414A83028A4006BA9B690430 pos=<1230.958862, 168.756760, 7566.885742>)
+23:40:22.750 [VehicleDestroyed] ExpansionUh1h_Medical (id=35239E530346BB713E95328B144BA80D pos=<1227.745239, 169.336502, 7566.603027>)
+23:46:17.031 [VehicleDeleted] ExpansionUh1h_Medical (id=35239E530346BB713E95328B144BA80D pos=<1231.101196, 168.755508, 7566.846191>)
+23:46:33.140 [AI Patrol] Spawning 3 Shamans bots at <9472.125000, 238.669006, 10553.065430>
+23:48:01.562 [VehicleDestroyed] ExpansionUh1h (id=AF0693FBF7451EE5783931B3831090B7 pos=<7924.477051, 169.454926, 11834.451172>)
+23:53:54.359 [VehicleDeleted] ExpansionUh1h (id=AF0693FBF7451EE5783931B3831090B7 pos=<7924.989258, 168.966827, 11835.729492>)
+23:56:04.289 [VehicleDestroyed] ExpansionUh1h (id=6EA84F4B324FCC18DFD00B9E26AFF583 pos=<1227.724976, 169.336914, 7566.598145>)
+23:57:26.031 [Party] Player "Captain Chaos" (id=KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=) left the party "ffff" (id=1 ownerUID=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU= ownerName=Blue)
+23:58:00.359 [Party] Player "MaxCaliber" (id=s7vJf2NuCNme1MUM_sgLr2G3yzcxYg10pO0s-GAKExM=) left the party "ffff" (id=1 ownerUID=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU= ownerName=Blue)
+23:58:04.593 [Party] Player "Blue" (id=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU=) left the party "ffff" (id=1 ownerUID=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU= ownerName=Blue)

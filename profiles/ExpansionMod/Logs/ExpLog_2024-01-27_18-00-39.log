@@ -1,0 +1,20 @@
+18:00:54.078 [VehicleDestroyed] ExpansionUh1h (id=C9C3E83FED4347D035F973937F98D438 pos=<1233.211670, 168.705185, 7566.626953>)
+18:00:54.863 [VehicleDeleted] ExpansionUh1h (id=B878B06A044166AE303E84A71131C2A8 pos=<1233.211670, 168.705185, 7566.626953>)
+21:33:38.242 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU=
+21:33:38.242 [Expansion Quests] - LoadGroupQuestData - Created new persistent group quest data for group with ID: -1
+21:33:38.242 [Expansion Quests] - Create new quest instance for quest: 8 - Player UID: OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU=
+21:33:38.242 [Expansion Quests] - Create new quest instance for quest: 9 - Player UID: OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU=
+21:33:38.242 [Expansion Quests] - Create new quest instance for quest: 11 - Player UID: OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU=
+21:33:38.250 [AI Patrol] Spawning 3 Shamans bots at <7776.263672, 245.533417, 5977.238770>
+21:33:38.390 [AI Patrol] Spawning 3 Shamans bots at <7415.693848, 238.207077, 6067.054199>
+21:33:38.406 [AI Patrol] Spawning 3 Shamans bots at <7896.041016, 260.031830, 6002.491699>
+21:33:38.421 [AI Patrol] Spawning 3 Shamans bots at <7584.922852, 230.868484, 6047.059082>
+21:33:38.437 [AI Patrol] Spawning 3 Shamans bots at <7716.221191, 234.337662, 5737.661621>
+21:33:38.453 [AI Patrol] Spawning 3 Shamans bots at <7408.449219, 226.320770, 6542.224121>
+21:34:59.734 [VehicleDestroyed] ExpansionUh1h_Medical (id=9D6F7CE0B34B58139341698676B897A0 pos=<7924.909180, 169.409012, 11833.551758>)
+21:37:58.382 [Expansion Quests] - InitQuestSystemClient - Created new persistent player quest data for player UID: KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw=
+21:37:58.382 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: -1
+21:37:58.390 [AI Patrol] Spawning 3 Shamans bots at <6666.046387, 174.625092, 11104.773438>
+21:37:58.406 [Expansion Quests] - CompleteQuest - Player with UID KWl3ojgjStHOe3-iLRChpUG8crsNiNfei3BT6NCIfaw= has completed quest 14
+21:38:47.054 [MissionAirdrop] An airdrop is heading towards "Nadbor" (pos=<5996.000000, 0.000000, 4513.000000> type=Random_Nadbor) with a ExpansionAirdropContainer_Medical
+21:38:57.046 [MissionAirdrop] An airdrop is heading towards "Brena" (pos=<6692.000000, 0.000000, 11442.000000> type=Random_Brena) with a ExpansionAirdropContainer_Medical

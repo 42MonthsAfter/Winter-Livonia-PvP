@@ -1,0 +1,30 @@
+20:33:02.531 [Expansion Quests] - InitQuestSystemClient - Created new persistent player quest data for player UID: PzpR7GjHiWspOSpWM7R-eL-8LJXJv3V9Q-C3PyG2biU=
+20:33:02.531 [Expansion Quests] - LoadGroupQuestData - Created new persistent group quest data for group with ID: -1
+20:33:02.539 [Expansion Quests] - CompleteQuest - Player with UID PzpR7GjHiWspOSpWM7R-eL-8LJXJv3V9Q-C3PyG2biU= has completed quest 14
+20:33:25.718 [SpawnSelection] Player "scrim" (id=PzpR7GjHiWspOSpWM7R-eL-8LJXJv3V9Q-C3PyG2biU=) spawned at <6426.084473, 201.526901, 11602.169922>
+20:33:25.960 [AI Patrol] Spawning 3 Shamans bots at <6461.242188, 168.368240, 10910.417969>
+20:34:00.335 [VehicleDestroyed] ExpansionUh1h (id=8AC9B2A14049BA67018259BBD867830C pos=<1227.744751, 169.336334, 7566.603516>)
+20:38:08.062 [MissionAirdrop] An airdrop is heading towards "Muratyn" (pos=<4559.000000, 0.000000, 6852.000000> type=Random_Muratyn) with a ExpansionAirdropContainer_Military
+20:38:38.062 [MissionAirdrop] An airdrop is heading towards "Dolnik" (pos=<11491.000000, 0.000000, 763.000000> type=Random_Dolnik) with a ExpansionAirdropContainer_Medical
+20:39:54.609 [VehicleDeleted] ExpansionUh1h (id=8AC9B2A14049BA67018259BBD867830C pos=<1231.019653, 168.747696, 7566.901367>)
+20:41:39.140 [VehicleDestroyed] ExpansionUh1h_Resistance (id=A548A7AA9D4A04DF37E9ECBDB6673DFA pos=<1227.744385, 169.336670, 7566.604004>)
+20:47:31.914 [VehicleDeleted] ExpansionUh1h_Resistance (id=A548A7AA9D4A04DF37E9ECBDB6673DFA pos=<1231.051392, 168.749451, 7566.885254>)
+20:47:33.765 [Expansion Quests] - InitQuestSystemClient - Created new persistent player quest data for player UID: -r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=
+20:47:33.765 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: -1
+20:47:33.781 [Expansion Quests] - CompleteQuest - Player with UID -r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE= has completed quest 14
+20:49:05.664 [SpawnSelection] Player "zXGoovis_AndachairXz" (id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=) spawned at <1291.614258, 286.404175, 9849.049805>
+20:49:41.843 [VehicleDestroyed] ExpansionUh1h_Resistance (id=57A0FF707A4E2BD6E46176BFB102A3C9 pos=<7924.564453, 169.520538, 11834.271484>)
+20:51:22.765 [Killfeed] scrim got killed.
+20:51:30.898 [Party] Player "zXGoovis_AndachairXz" (id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=) joinded the party "zX No_RagReTsXz" (id=0 ownerUID= ownerName=)
+20:51:30.898 [Party] Player "zXGoovis_AndachairXz" (id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=) created a party named zX No_RagReTsXz (NORg)
+20:51:31.898 [Expansion Quests] - LoadGroupQuestData - Created new persistent group quest data for group with ID: 0
+20:51:51.515 [SpawnSelection] Player "scrim" (id=PzpR7GjHiWspOSpWM7R-eL-8LJXJv3V9Q-C3PyG2biU=) spawned at <1291.614258, 286.404175, 9849.049805>
+20:55:36.125 [VehicleDeleted] ExpansionUh1h_Resistance (id=57A0FF707A4E2BD6E46176BFB102A3C9 pos=<7925.181152, 168.998367, 11835.754883>)
+20:57:15.390 [Killfeed] zXGoovis_AndachairXz got killed.
+20:57:20.656 [VehicleDestroyed] ExpansionUh1h_Resistance (id=6280AA053D466CBDEC4D4B99D5EA0072 pos=<7924.634766, 169.305237, 11833.782227>)
+20:57:30.546 [Party] Player "zXGoovis_AndachairXz" (id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=) joinded the party "zX No_RagReTsXz" (id=0 ownerUID=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE= ownerName=zXGoovis_AndachairXz)
+20:57:30.546 [AI Patrol] Spawning 3 Shamans bots at <4326.969238, 238.684860, 10405.620117>
+20:57:30.562 [AI Patrol] Spawning 3 Shamans bots at <4007.378906, 238.266510, 10260.046875>
+20:57:31.531 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 0
+20:57:38.132 [SpawnSelection] Player "zXGoovis_AndachairXz" (id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=) spawned at <11187.933594, 170.951965, 11216.284180>
+21:00:13.515 [Party] Player "zXGoovis_AndachairXz" (id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=) left the party "zX No_RagReTsXz" (id=0 ownerUID=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE= ownerName=zXGoovis_AndachairXz)
