@@ -1,0 +1,31 @@
+12:05:10.175 [Party] Player "j420" (id=bBw_D3S9A1Q9QDB8rzokX6lqvwo5tNiEzsI52YAjy_0=) joinded the party "kt06" (id=2 ownerUID=p8BJtCkPdMj4ZVYbNs7tJidYP0mOqJWQltw-Flz63MM= ownerName=daddy_kt06)
+12:05:27.902 [VehicleCover] Player "j420" (id=bBw_D3S9A1Q9QDB8rzokX6lqvwo5tNiEzsI52YAjy_0= pos=<4458.885742, 326.745300, 6982.366211>) uncovered vehicle "Expansion_Landrover" (GlobalID=80000000800000008000000080000B7B pos=<4457.944336, 326.722961, 6979.218750>)!
+12:06:21.773 [VehicleEnter] Player j420 [uid=bBw_D3S9A1Q9QDB8rzokX6lqvwo5tNiEzsI52YAjy_0=] entered vehicle Land Rover Defender (id=3FA181C13E414BC6A579F080B8A2D90C pos=<4457.926758, 326.720795, 6979.227051>) as driver
+12:06:24.441 [VehicleEngine] Player j420 [uid=bBw_D3S9A1Q9QDB8rzokX6lqvwo5tNiEzsI52YAjy_0=] started vehicle Land Rover Defender (id=3FA181C13E414BC6A579F080B8A2D90C pos=<4457.927246, 326.720825, 6979.227051>)
+12:06:29.832 [VehicleDestroyed] ExpansionUh1h_Medical (id=6A7A55682646DB630E9C6A82B249FA22 pos=<7924.903809, 169.406509, 11833.686523>)
+12:07:19.437 [VehicleLeave] Player j420 [uid=bBw_D3S9A1Q9QDB8rzokX6lqvwo5tNiEzsI52YAjy_0=] left vehicle Land Rover Defender (id=3FA181C13E414BC6A579F080B8A2D90C pos=<4360.167480, 315.117096, 6753.015137>)
+12:08:07.136 [VehicleEnter] Player j420 [uid=bBw_D3S9A1Q9QDB8rzokX6lqvwo5tNiEzsI52YAjy_0=] entered vehicle Land Rover Defender (id=3FA181C13E414BC6A579F080B8A2D90C pos=<4360.167480, 315.117065, 6753.015137>) as driver
+12:08:08.800 [VehicleEngine] Player j420 [uid=bBw_D3S9A1Q9QDB8rzokX6lqvwo5tNiEzsI52YAjy_0=] started vehicle Land Rover Defender (id=3FA181C13E414BC6A579F080B8A2D90C pos=<4360.167480, 315.117096, 6753.015137>)
+12:09:54.140 [VehicleLeave] Player j420 [uid=bBw_D3S9A1Q9QDB8rzokX6lqvwo5tNiEzsI52YAjy_0=] left vehicle Land Rover Defender (id=3FA181C13E414BC6A579F080B8A2D90C pos=<4728.354980, 322.502350, 6647.905273>)
+12:10:16.632 [MissionAirdrop] An airdrop is heading towards "Dolnik" (pos=<11491.000000, 0.000000, 763.000000> type=Random_Dolnik) with a ExpansionAirdropContainer_Basebuilding
+12:10:26.628 [MissionAirdrop] An airdrop is heading towards "Kolembrody" (pos=<8676.000000, 0.000000, 12114.000000> type=Random_Kolembrody) with a ExpansionAirdropContainer
+12:11:26.164 [VehicleEnter] Player j420 [uid=bBw_D3S9A1Q9QDB8rzokX6lqvwo5tNiEzsI52YAjy_0=] entered vehicle Land Rover Defender (id=3FA181C13E414BC6A579F080B8A2D90C pos=<4728.354980, 322.502350, 6647.905273>) as driver
+12:11:29.144 [VehicleEngine] Player j420 [uid=bBw_D3S9A1Q9QDB8rzokX6lqvwo5tNiEzsI52YAjy_0=] started vehicle Land Rover Defender (id=3FA181C13E414BC6A579F080B8A2D90C pos=<4728.354980, 322.502350, 6647.905273>)
+12:11:49.085 [VehicleLeave] Player j420 [uid=bBw_D3S9A1Q9QDB8rzokX6lqvwo5tNiEzsI52YAjy_0=] left vehicle Land Rover Defender (id=3FA181C13E414BC6A579F080B8A2D90C pos=<4812.477539, 319.797821, 6410.910645>)
+12:12:24.105 [VehicleDeleted] ExpansionUh1h_Medical (id=6A7A55682646DB630E9C6A82B249FA22 pos=<7924.937500, 169.432220, 11833.627930>)
+12:13:37.855 [VehicleEnter] Player j420 [uid=bBw_D3S9A1Q9QDB8rzokX6lqvwo5tNiEzsI52YAjy_0=] entered vehicle Land Rover Defender (id=3FA181C13E414BC6A579F080B8A2D90C pos=<4812.471680, 319.797852, 6410.898438>) as driver
+12:14:06.187 [Party] Player "j420" (id=bBw_D3S9A1Q9QDB8rzokX6lqvwo5tNiEzsI52YAjy_0=) left the party "kt06" (id=2 ownerUID=p8BJtCkPdMj4ZVYbNs7tJidYP0mOqJWQltw-Flz63MM= ownerName=daddy_kt06)
+12:14:08.632 [VehicleDestroyed] ExpansionUh1h_Uber (id=5115EFE5C24FB0C66BE081AB26DA2E26 pos=<7924.750488, 169.295349, 11833.845703>)
+12:14:37.203 [Party] Player "j420" (id=bBw_D3S9A1Q9QDB8rzokX6lqvwo5tNiEzsI52YAjy_0=) joinded the party "kt06" (id=2 ownerUID=p8BJtCkPdMj4ZVYbNs7tJidYP0mOqJWQltw-Flz63MM= ownerName=daddy_kt06)
+12:14:45.519 [VehicleEnter] Player j420 [uid=bBw_D3S9A1Q9QDB8rzokX6lqvwo5tNiEzsI52YAjy_0=] entered vehicle Land Rover Defender (id=3FA181C13E414BC6A579F080B8A2D90C pos=<4812.471680, 319.797821, 6410.898438>) as driver
+12:14:48.214 [VehicleEngine] Player j420 [uid=bBw_D3S9A1Q9QDB8rzokX6lqvwo5tNiEzsI52YAjy_0=] started vehicle Land Rover Defender (id=3FA181C13E414BC6A579F080B8A2D90C pos=<4812.471680, 319.797821, 6410.898438>)
+12:15:14.398 [VehicleLeave] Player j420 [uid=bBw_D3S9A1Q9QDB8rzokX6lqvwo5tNiEzsI52YAjy_0=] left vehicle Land Rover Defender (id=3FA181C13E414BC6A579F080B8A2D90C pos=<4929.868164, 336.936127, 6122.898926>)
+12:15:28.734 [VehicleEnter] Player j420 [uid=bBw_D3S9A1Q9QDB8rzokX6lqvwo5tNiEzsI52YAjy_0=] entered vehicle Land Rover Defender (id=3FA181C13E414BC6A579F080B8A2D90C pos=<4929.868652, 336.936096, 6122.898926>) as driver
+12:15:30.839 [VehicleEngine] Player j420 [uid=bBw_D3S9A1Q9QDB8rzokX6lqvwo5tNiEzsI52YAjy_0=] started vehicle Land Rover Defender (id=3FA181C13E414BC6A579F080B8A2D90C pos=<4929.868652, 336.936096, 6122.898926>)
+12:16:03.605 [VehicleLeave] Player j420 [uid=bBw_D3S9A1Q9QDB8rzokX6lqvwo5tNiEzsI52YAjy_0=] left vehicle Land Rover Defender (id=3FA181C13E414BC6A579F080B8A2D90C pos=<5100.910156, 366.888123, 5744.143066>)
+12:16:59.304 [VehicleEnter] Player j420 [uid=bBw_D3S9A1Q9QDB8rzokX6lqvwo5tNiEzsI52YAjy_0=] entered vehicle Land Rover Defender (id=3FA181C13E414BC6A579F080B8A2D90C pos=<5100.910156, 366.888123, 5744.143066>) as driver
+12:17:01.246 [VehicleEngine] Player j420 [uid=bBw_D3S9A1Q9QDB8rzokX6lqvwo5tNiEzsI52YAjy_0=] started vehicle Land Rover Defender (id=3FA181C13E414BC6A579F080B8A2D90C pos=<5100.910156, 366.888153, 5744.143066>)
+12:17:18.964 [VehicleLeave] Player j420 [uid=bBw_D3S9A1Q9QDB8rzokX6lqvwo5tNiEzsI52YAjy_0=] left vehicle Land Rover Defender (id=3FA181C13E414BC6A579F080B8A2D90C pos=<5189.822754, 368.908447, 5652.788574>)
+12:20:36.261 [VehicleDeleted] ExpansionUh1h_Uber (id=5115EFE5C24FB0C66BE081AB26DA2E26 pos=<7924.496582, 169.279831, 11833.940430>)
+12:22:19.289 [VehicleDestroyed] ExpansionUh1h (id=63D468A1E64AE70DC906769F694CEFEB pos=<7924.388184, 169.431061, 11834.509766>)
+12:24:04.664 [Party] Player "j420" (id=bBw_D3S9A1Q9QDB8rzokX6lqvwo5tNiEzsI52YAjy_0=) left the party "kt06" (id=2 ownerUID=p8BJtCkPdMj4ZVYbNs7tJidYP0mOqJWQltw-Flz63MM= ownerName=daddy_kt06)

@@ -1,0 +1,38 @@
+10:44:28.882 [VehicleDestroyed] ExpansionUh1h_Medical (id=ACF82688F4448559374C8AAD023C5E32 pos=<1230.852173, 168.752426, 7566.935547>)
+10:44:30.253 [VehicleDeleted] ExpansionUh1h_Medical (id=0E2197B35442BE55D97C3B9BC241444B pos=<1230.852173, 168.752426, 7566.935547>)
+10:47:11.644 [Party] Player "j420" (id=bBw_D3S9A1Q9QDB8rzokX6lqvwo5tNiEzsI52YAjy_0=) joinded the party "kt06" (id=2 ownerUID=p8BJtCkPdMj4ZVYbNs7tJidYP0mOqJWQltw-Flz63MM= ownerName=daddy_kt06)
+10:48:03.871 [Party] Player "daddy_kt06" (id=p8BJtCkPdMj4ZVYbNs7tJidYP0mOqJWQltw-Flz63MM=) joinded the party "kt06" (id=2 ownerUID=p8BJtCkPdMj4ZVYbNs7tJidYP0mOqJWQltw-Flz63MM= ownerName=daddy_kt06)
+10:48:32.214 [VehicleDestroyed] ExpansionUh1h (id=6636E0333B40CD4C2C7363BCC7978487 pos=<1227.691162, 169.341324, 7566.564453>)
+10:52:12.218 [MissionAirdrop] An airdrop is heading towards "Topolin" (pos=<1367.000000, 0.000000, 7057.000000> type=Random_Topolin) with a ExpansionAirdropContainer_Medical
+10:52:32.214 [MissionAirdrop] An airdrop is heading towards "Kolembrody" (pos=<8676.000000, 0.000000, 12114.000000> type=Random_Kolembrody) with a ExpansionAirdropContainer_Medical
+10:54:26.484 [VehicleDeleted] ExpansionUh1h (id=6636E0333B40CD4C2C7363BCC7978487 pos=<1230.904297, 168.749832, 7566.929688>)
+10:56:11.011 [VehicleDestroyed] ExpansionUh1h (id=AB1C864B0B4517C4B39C34941A1AB272 pos=<7924.719238, 169.328613, 11833.816406>)
+11:02:03.785 [VehicleDeleted] ExpansionUh1h (id=AB1C864B0B4517C4B39C34941A1AB272 pos=<7924.612305, 169.345139, 11833.746094>)
+11:03:29.613 [Party] Player "j420" (id=bBw_D3S9A1Q9QDB8rzokX6lqvwo5tNiEzsI52YAjy_0=) left the party "kt06" (id=2 ownerUID=p8BJtCkPdMj4ZVYbNs7tJidYP0mOqJWQltw-Flz63MM= ownerName=daddy_kt06)
+11:04:13.738 [VehicleDestroyed] ExpansionUh1h_Uber (id=E64517D872465C0968CC9E807E2495B0 pos=<7924.742188, 169.395279, 11833.590820>)
+11:05:26.761 [Party] Player "j420" (id=bBw_D3S9A1Q9QDB8rzokX6lqvwo5tNiEzsI52YAjy_0=) joinded the party "kt06" (id=2 ownerUID=p8BJtCkPdMj4ZVYbNs7tJidYP0mOqJWQltw-Flz63MM= ownerName=daddy_kt06)
+11:09:44.769 [Party] Player "daddy_kt06" (id=p8BJtCkPdMj4ZVYbNs7tJidYP0mOqJWQltw-Flz63MM=) joinded the party "kt06" (id=2 ownerUID=p8BJtCkPdMj4ZVYbNs7tJidYP0mOqJWQltw-Flz63MM= ownerName=daddy_kt06)
+11:10:06.214 [SpawnSelection] Player "daddy_kt06" (id=p8BJtCkPdMj4ZVYbNs7tJidYP0mOqJWQltw-Flz63MM=) spawned at <11212.156250, 197.501846, 11669.453125>
+11:10:07.984 [VehicleDeleted] ExpansionUh1h_Uber (id=E64517D872465C0968CC9E807E2495B0 pos=<7924.689941, 169.417587, 11833.492188>)
+11:15:00.812 [VehicleDestroyed] ExpansionUh1h (id=9633745EBD41EE0BDBA849BFD6B8E2EC pos=<7924.737305, 169.297516, 11833.861328>)
+11:20:53.585 [VehicleDeleted] ExpansionUh1h (id=9633745EBD41EE0BDBA849BFD6B8E2EC pos=<7923.090820, 169.052902, 11833.863281>)
+11:21:37.734 [Party] Player "j420" (id=bBw_D3S9A1Q9QDB8rzokX6lqvwo5tNiEzsI52YAjy_0=) joinded the party "kt06" (id=2 ownerUID=p8BJtCkPdMj4ZVYbNs7tJidYP0mOqJWQltw-Flz63MM= ownerName=daddy_kt06)
+11:21:45.988 [SpawnSelection] Player "j420" (id=bBw_D3S9A1Q9QDB8rzokX6lqvwo5tNiEzsI52YAjy_0=) spawned at <1291.614258, 286.404175, 9849.049805>
+11:23:03.515 [VehicleDestroyed] ExpansionUh1h_Resistance (id=355517BC964387FA528C3AB1FA561413 pos=<7924.415039, 169.376373, 11833.510742>)
+11:28:57.785 [VehicleDeleted] ExpansionUh1h_Resistance (id=355517BC964387FA528C3AB1FA561413 pos=<7924.455566, 169.382706, 11833.459961>)
+11:30:42.312 [VehicleDestroyed] ExpansionUh1h_Resistance (id=775889702742CDBD9736A4931024AB6B pos=<7924.824219, 169.513321, 11833.740234>)
+11:36:35.085 [VehicleDeleted] ExpansionUh1h_Resistance (id=775889702742CDBD9736A4931024AB6B pos=<7924.547852, 169.324310, 11833.696289>)
+11:37:05.535 [Party] Player "j420" (id=bBw_D3S9A1Q9QDB8rzokX6lqvwo5tNiEzsI52YAjy_0=) joinded the party "kt06" (id=2 ownerUID=p8BJtCkPdMj4ZVYbNs7tJidYP0mOqJWQltw-Flz63MM= ownerName=daddy_kt06)
+11:37:05.539 [AI Patrol] Spawning 3 Shamans bots at <6674.136719, 167.214859, 11042.292969>
+11:37:10.980 [SpawnSelection] Player "j420" (id=bBw_D3S9A1Q9QDB8rzokX6lqvwo5tNiEzsI52YAjy_0=) spawned at <8590.466797, 172.585556, 11946.450195>
+11:38:45.113 [VehicleDestroyed] ExpansionUh1h_Uber (id=558499C532466A219688D6ACB5819C8B pos=<7924.820801, 169.601379, 11833.869141>)
+11:42:11.714 [AI Patrol] Spawning 3 Shamans bots at <9285.954102, 199.378601, 10926.939453>
+11:44:39.386 [VehicleDeleted] ExpansionUh1h_Uber (id=558499C532466A219688D6ACB5819C8B pos=<7924.953613, 169.382401, 11833.707031>)
+11:48:10.023 [VehicleDestroyed] ExpansionUh1h (id=0ACF6A3D2F48294910883D92C2FD6694 pos=<1227.724365, 169.337387, 7566.596191>)
+11:54:04.296 [VehicleDeleted] ExpansionUh1h (id=0ACF6A3D2F48294910883D92C2FD6694 pos=<1230.960693, 168.759811, 7566.873047>)
+11:55:47.414 [Party] Player "j420" (id=bBw_D3S9A1Q9QDB8rzokX6lqvwo5tNiEzsI52YAjy_0=) left the party "kt06" (id=2 ownerUID=p8BJtCkPdMj4ZVYbNs7tJidYP0mOqJWQltw-Flz63MM= ownerName=daddy_kt06)
+11:55:48.824 [VehicleDestroyed] ExpansionUh1h_Resistance (id=C841D5353E465B878421469A7BB2E172 pos=<1227.745605, 169.336945, 7566.602539>)
+11:57:27.359 [Party] Player "j420" (id=bBw_D3S9A1Q9QDB8rzokX6lqvwo5tNiEzsI52YAjy_0=) joinded the party "kt06" (id=2 ownerUID=p8BJtCkPdMj4ZVYbNs7tJidYP0mOqJWQltw-Flz63MM= ownerName=daddy_kt06)
+11:57:35.105 [SpawnSelection] Player "j420" (id=bBw_D3S9A1Q9QDB8rzokX6lqvwo5tNiEzsI52YAjy_0=) spawned at <8553.800781, 187.723114, 12174.582031>
+11:59:15.671 [Party] Player "daddy_kt06" (id=p8BJtCkPdMj4ZVYbNs7tJidYP0mOqJWQltw-Flz63MM=) left the party "kt06" (id=2 ownerUID=p8BJtCkPdMj4ZVYbNs7tJidYP0mOqJWQltw-Flz63MM= ownerName=daddy_kt06)
+11:59:15.679 [Party] Player "j420" (id=bBw_D3S9A1Q9QDB8rzokX6lqvwo5tNiEzsI52YAjy_0=) left the party "kt06" (id=2 ownerUID=p8BJtCkPdMj4ZVYbNs7tJidYP0mOqJWQltw-Flz63MM= ownerName=daddy_kt06)

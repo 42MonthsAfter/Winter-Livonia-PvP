@@ -1,0 +1,35 @@
+18:00:58.480 [VehicleDestroyed] ExpansionUh1h_Resistance (id=C66129F9664A089625C65C8A949ED22D pos=<1230.274902, 168.766098, 7567.042480>)
+18:00:59.273 [VehicleDeleted] ExpansionUh1h_Resistance (id=830BC3907C4D2D3382CF02B252A17D73 pos=<1230.274902, 168.766098, 7567.042480>)
+22:22:56.109 [SpawnSelection] Player "Astrobubbler" (id=Fm0XFAaFA4nK2Wua9ngNK3NcgafhxBOiajjHHnyLikU=) spawned at <6237.983398, 170.833481, 10880.137695>
+22:23:19.046 [Party] Player "Astrobubbler" (id=Fm0XFAaFA4nK2Wua9ngNK3NcgafhxBOiajjHHnyLikU=) joinded the party "astrooo" (id=4 ownerUID= ownerName=)
+22:23:19.046 [Party] Player "Astrobubbler" (id=Fm0XFAaFA4nK2Wua9ngNK3NcgafhxBOiajjHHnyLikU=) created a party named astrooo (rrrr)
+22:23:39.476 [SpawnSelection] Player "Martyne1975" (id=BA5IZSFc3WsGvNXrkQND0OV87W8lHvQ3O0a8uTwNPPc=) spawned at <6237.983398, 170.833481, 10880.137695>
+22:23:59.937 [Party] Player "Astrobubbler" (id=Fm0XFAaFA4nK2Wua9ngNK3NcgafhxBOiajjHHnyLikU=) invited the player "Martyne1975" (id=BA5IZSFc3WsGvNXrkQND0OV87W8lHvQ3O0a8uTwNPPc=)to the party named astrooo
+22:24:03.625 [VehicleDestroyed] ExpansionUh1h (id=8635F4C5C247FC72A9D0F588B198AEB1 pos=<7924.596191, 169.424728, 11833.846680>)
+22:24:07.539 [Party] Player "Martyne1975" (id=BA5IZSFc3WsGvNXrkQND0OV87W8lHvQ3O0a8uTwNPPc=) joinded the party "astrooo" (id=4 ownerUID=Fm0XFAaFA4nK2Wua9ngNK3NcgafhxBOiajjHHnyLikU= ownerName=Astrobubbler)
+22:27:40.882 [MissionAirdrop] An airdrop is heading towards "Zapadlisko" (pos=<8399.000000, 0.000000, 8803.000000> type=Random_Zapadlisko) with a ExpansionAirdropContainer_Military
+22:27:50.875 [MissionAirdrop] An airdrop is heading towards "Gieraltow" (pos=<10899.000000, 0.000000, 4515.000000> type=Random_Gieraltow) with a ExpansionAirdropContainer_Basebuilding
+22:29:57.898 [VehicleDeleted] ExpansionUh1h (id=8635F4C5C247FC72A9D0F588B198AEB1 pos=<7925.138672, 169.057281, 11835.446289>)
+22:31:42.421 [VehicleDestroyed] ExpansionUh1h_Resistance (id=45365A0EC5461AEB4E8F3A9FECEABAE3 pos=<1227.745483, 169.336655, 7566.602051>)
+22:37:35.195 [VehicleDeleted] ExpansionUh1h_Resistance (id=45365A0EC5461AEB4E8F3A9FECEABAE3 pos=<1231.092041, 168.747314, 7566.881348>)
+22:39:45.125 [VehicleDestroyed] ExpansionUh1h_Uber (id=89136ED6754D05BECE81A8BD3387C4B9 pos=<1227.744507, 169.336823, 7566.601563>)
+22:41:28.906 [AI Patrol] Spawning 3 Shamans bots at <6462.045410, 174.919998, 10976.074219>
+22:45:39.460 [VehicleDeleted] ExpansionUh1h_Uber (id=89136ED6754D05BECE81A8BD3387C4B9 pos=<1230.996216, 168.759567, 7566.863281>)
+22:47:23.984 [VehicleDestroyed] ExpansionUh1h_Uber (id=9F7C19770F41003DF499338C5FB78159 pos=<7924.748047, 169.294632, 11833.980469>)
+22:53:16.757 [VehicleDeleted] ExpansionUh1h_Uber (id=9F7C19770F41003DF499338C5FB78159 pos=<7922.490723, 168.483185, 11835.833984>)
+22:55:26.687 [VehicleDestroyed] ExpansionUh1h_Medical (id=431AC8DBC14F5A751FACB4944A1ECC05 pos=<1227.742432, 169.337051, 7566.601074>)
+23:01:20.953 [VehicleDeleted] ExpansionUh1h_Medical (id=431AC8DBC14F5A751FACB4944A1ECC05 pos=<1230.959595, 168.749634, 7566.913574>)
+23:03:05.484 [VehicleDestroyed] ExpansionUh1h (id=E25CEC4D004E5FC675838B94574F9007 pos=<7924.497559, 169.569473, 11833.827148>)
+23:08:58.265 [VehicleDeleted] ExpansionUh1h (id=E25CEC4D004E5FC675838B94574F9007 pos=<7924.249023, 169.294022, 11833.531250>)
+23:09:17.632 [Party] Player "Astrobubbler" (id=Fm0XFAaFA4nK2Wua9ngNK3NcgafhxBOiajjHHnyLikU=) left the party "astrooo" (id=4 ownerUID=Fm0XFAaFA4nK2Wua9ngNK3NcgafhxBOiajjHHnyLikU= ownerName=Astrobubbler)
+23:09:38.546 [Party] Player "Martyne1975" (id=BA5IZSFc3WsGvNXrkQND0OV87W8lHvQ3O0a8uTwNPPc=) left the party "astrooo" (id=4 ownerUID=Fm0XFAaFA4nK2Wua9ngNK3NcgafhxBOiajjHHnyLikU= ownerName=Astrobubbler)
+23:12:49.351 [Party] Player "{BtWF}_Raziel" (id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=) joinded the party "zX No_RagReTsXz" (id=0 ownerUID=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE= ownerName=zXGoovis_AndachairXz)
+23:12:54.148 [VehicleDestroyed] ExpansionUh1h (id=32BBD2138B498409625297AC13ECFD9F pos=<1227.744263, 169.337036, 7566.601563>)
+23:13:00.703 [SpawnSelection] Player "{BtWF}_Raziel" (id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=) spawned at <4053.288818, 242.455200, 11554.082031>
+23:18:48.421 [VehicleDeleted] ExpansionUh1h (id=32BBD2138B498409625297AC13ECFD9F pos=<1231.115601, 168.754333, 7566.846191>)
+23:20:32.953 [VehicleDestroyed] ExpansionUh1h (id=286E09FC0A48AB887080AFB4A0D47408 pos=<1227.732666, 169.337296, 7566.598633>)
+23:21:41.468 [AI Patrol] Spawning 3 Shamans bots at <3706.390137, 231.911240, 10365.871094>
+23:21:54.203 [AI Patrol] Spawning 3 Shamans bots at <4393.588867, 237.003433, 10466.583008>
+23:26:25.765 [VehicleDeleted] ExpansionUh1h (id=286E09FC0A48AB887080AFB4A0D47408 pos=<1230.968384, 168.757843, 7566.878418>)
+23:28:35.718 [VehicleDestroyed] ExpansionUh1h_Uber (id=3FEF775D584645CAB60403B0120D93CB pos=<7924.610840, 169.396255, 11833.592773>)
+23:31:42.609 [Party] Player "{BtWF}_Raziel" (id=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE=) left the party "zX No_RagReTsXz" (id=0 ownerUID=-r2araXommLNgd2kLCOg5MUhQUGYZRsIrQF--_XcIVE= ownerName=zXGoovis_AndachairXz)

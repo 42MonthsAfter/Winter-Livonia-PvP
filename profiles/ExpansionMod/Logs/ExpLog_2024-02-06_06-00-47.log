@@ -1,0 +1,16 @@
+10:10:27.457 [VehicleDestroyed] ExpansionUh1h_Uber (id=E46FA8EC10422106CFAF96AB6803E70E pos=<1227.745483, 169.336990, 7566.602539>)
+10:10:59.164 [SpawnSelection] Player "j420" (id=bBw_D3S9A1Q9QDB8rzokX6lqvwo5tNiEzsI52YAjy_0=) spawned at <1488.869751, 284.999756, 9866.576172>
+10:11:05.699 [SpawnSelection] Player "daddy_kt06" (id=p8BJtCkPdMj4ZVYbNs7tJidYP0mOqJWQltw-Flz63MM=) spawned at <1107.232178, 282.667786, 9262.442383>
+10:12:58.597 [Party] Player "daddy_kt06" (id=p8BJtCkPdMj4ZVYbNs7tJidYP0mOqJWQltw-Flz63MM=) joinded the party "kt06" (id=2 ownerUID= ownerName=)
+10:12:58.597 [Party] Player "daddy_kt06" (id=p8BJtCkPdMj4ZVYbNs7tJidYP0mOqJWQltw-Flz63MM=) created a party named kt06 (kt420)
+10:13:07.640 [Party] Player "daddy_kt06" (id=p8BJtCkPdMj4ZVYbNs7tJidYP0mOqJWQltw-Flz63MM=) invited the player "j420" (id=bBw_D3S9A1Q9QDB8rzokX6lqvwo5tNiEzsI52YAjy_0=)to the party named kt06
+10:13:20.808 [Party] Player "j420" (id=bBw_D3S9A1Q9QDB8rzokX6lqvwo5tNiEzsI52YAjy_0=) joinded the party "kt06" (id=2 ownerUID=p8BJtCkPdMj4ZVYbNs7tJidYP0mOqJWQltw-Flz63MM= ownerName=daddy_kt06)
+10:14:07.937 [MissionAirdrop] An airdrop is heading towards "Karlin" (pos=<9975.000000, 0.000000, 7242.000000> type=Random_Karlin) with a ExpansionAirdropContainer_Medical
+10:14:17.937 [MissionAirdrop] An airdrop is heading towards "Muratyn" (pos=<4559.000000, 0.000000, 6852.000000> type=Random_Muratyn) with a ExpansionAirdropContainer
+10:16:21.730 [VehicleDeleted] ExpansionUh1h_Uber (id=E46FA8EC10422106CFAF96AB6803E70E pos=<1231.108765, 168.752365, 7566.855957>)
+10:18:06.257 [VehicleDestroyed] ExpansionUh1h (id=001003D1874430DFCC92348C1081B21D pos=<1227.745483, 169.337006, 7566.602539>)
+10:21:38.171 [Party] Player "daddy_kt06" (id=p8BJtCkPdMj4ZVYbNs7tJidYP0mOqJWQltw-Flz63MM=) joinded the party "kt06" (id=2 ownerUID=p8BJtCkPdMj4ZVYbNs7tJidYP0mOqJWQltw-Flz63MM= ownerName=daddy_kt06)
+10:21:38.171 [AI Patrol] Spawning 3 Shamans bots at <4453.242188, 230.825043, 10474.155273>
+10:22:03.878 [SpawnSelection] Player "daddy_kt06" (id=p8BJtCkPdMj4ZVYbNs7tJidYP0mOqJWQltw-Flz63MM=) spawned at <10829.276367, 173.663818, 11294.203125>
+10:23:59.125 [VehicleDeleted] ExpansionUh1h (id=001003D1874430DFCC92348C1081B21D pos=<1231.110474, 168.749573, 7566.866211>)
+10:26:09.050 [VehicleDestroyed] ExpansionUh1h_Medical (id=0E2197B35442BE55D97C3B9BC241444B pos=<1227.745728, 169.336716, 7566.602539>)

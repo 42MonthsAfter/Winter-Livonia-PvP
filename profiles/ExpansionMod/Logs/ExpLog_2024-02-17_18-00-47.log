@@ -1,0 +1,5 @@
+22:58:35.398 [AI Patrol] Spawning 3 Shamans bots at <4220.854004, 238.160004, 10419.382813>
+23:00:01.070 [VehicleDestroyed] ExpansionUh1h_Medical (id=01D6AD5C0C433E03C6CDC2B4098861D6 pos=<1227.744263, 169.337082, 7566.601563>)
+23:03:37.187 [MissionAirdrop] An airdrop is heading towards "Tarnow" (pos=<9976.000000, 0.000000, 11000.000000> type=Random_Tarnow) with a ExpansionAirdropContainer_Basebuilding
+23:03:47.187 [MissionAirdrop] An airdrop is heading towards "Zapadlisko" (pos=<8399.000000, 0.000000, 8803.000000> type=Random_Zapadlisko) with a ExpansionAirdropContainer
+23:05:55.343 [VehicleDeleted] ExpansionUh1h_Medical (id=01D6AD5C0C433E03C6CDC2B4098861D6 pos=<1231.118286, 168.754028, 7566.846680>)

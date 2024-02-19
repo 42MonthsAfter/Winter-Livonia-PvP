@@ -1,0 +1,228 @@
+06:07:25.501 [Party] Player "j420" (id=bBw_D3S9A1Q9QDB8rzokX6lqvwo5tNiEzsI52YAjy_0=) joinded the party "kt06" (id=2 ownerUID=p8BJtCkPdMj4ZVYbNs7tJidYP0mOqJWQltw-Flz63MM= ownerName=daddy_kt06)
+06:08:46.859 [VehicleDestroyed] ExpansionUh1h (id=F78D94C16D44A0E92B83188A8ED450EA pos=<7924.684570, 169.616898, 11833.853516>)
+06:12:09.154 [Party] Player "MrBDazzler" (id=KbTeFa3kKYGqzcZV8TSKiaoNoxGVDwoJjTtulj1WEPI=) joinded the party "kt06" (id=2 ownerUID=p8BJtCkPdMj4ZVYbNs7tJidYP0mOqJWQltw-Flz63MM= ownerName=daddy_kt06)
+06:12:26.337 [MissionAirdrop] An airdrop is heading towards "Dolnik" (pos=<11491.000000, 0.000000, 763.000000> type=Random_Dolnik) with a ExpansionAirdropContainer
+06:13:06.343 [MissionAirdrop] An airdrop is heading towards "Brena" (pos=<6692.000000, 0.000000, 11442.000000> type=Random_Brena) with a ExpansionAirdropContainer_Military
+06:14:41.130 [VehicleDeleted] ExpansionUh1h (id=F78D94C16D44A0E92B83188A8ED450EA pos=<7925.125977, 169.456009, 11833.571289>)
+06:14:54.304 [SpawnSelection] Player "MrBDazzler" (id=KbTeFa3kKYGqzcZV8TSKiaoNoxGVDwoJjTtulj1WEPI=) spawned at <6237.983398, 170.833481, 10880.137695>
+06:16:25.658 [VehicleDestroyed] ExpansionUh1h_Resistance (id=469B7DD0684AFB6AD07036A797809F0C pos=<7924.856934, 169.341705, 11834.012695>)
+06:19:43.779 [AI Patrol] Spawning 3 Shamans bots at <6564.789551, 174.033813, 11066.149414>
+06:22:18.527 [VehicleDeleted] ExpansionUh1h_Resistance (id=469B7DD0684AFB6AD07036A797809F0C pos=<7924.622070, 169.313919, 11833.884766>)
+06:22:46.462 [VehicleEnter] Player j420 [uid=bBw_D3S9A1Q9QDB8rzokX6lqvwo5tNiEzsI52YAjy_0=] entered vehicle Merlin (id=9E24320C454FDC60C9D269B8802F9C4C pos=<4661.056152, 370.905243, 858.864197>) as pilot
+06:22:48.603 [VehicleEngine] Player j420 [uid=bBw_D3S9A1Q9QDB8rzokX6lqvwo5tNiEzsI52YAjy_0=] started vehicle Merlin (id=9E24320C454FDC60C9D269B8802F9C4C pos=<4661.056641, 370.903656, 858.864624>)
+06:22:54.359 [VehicleEngine] Player j420 [uid=bBw_D3S9A1Q9QDB8rzokX6lqvwo5tNiEzsI52YAjy_0=] stopped vehicle Merlin (id=9E24320C454FDC60C9D269B8802F9C4C pos=<4661.056152, 370.903107, 858.864624>)
+06:23:00.769 [VehicleLeave] Player j420 [uid=bBw_D3S9A1Q9QDB8rzokX6lqvwo5tNiEzsI52YAjy_0=] left vehicle Merlin (id=9E24320C454FDC60C9D269B8802F9C4C pos=<4661.056152, 370.903107, 858.864441>)
+06:24:28.455 [VehicleDestroyed] ExpansionUh1h (id=83A2A9125D4CD6453F1D1FA837F39AD5 pos=<1227.745728, 169.336700, 7566.602539>)
+06:29:15.746 [VehicleEnter] Player j420 [uid=bBw_D3S9A1Q9QDB8rzokX6lqvwo5tNiEzsI52YAjy_0=] entered vehicle Merlin (id=9E24320C454FDC60C9D269B8802F9C4C pos=<4661.058105, 370.899963, 858.879456>) as pilot
+06:29:17.638 [VehicleEngine] Player j420 [uid=bBw_D3S9A1Q9QDB8rzokX6lqvwo5tNiEzsI52YAjy_0=] started vehicle Merlin (id=9E24320C454FDC60C9D269B8802F9C4C pos=<4661.058594, 370.899963, 858.879456>)
+06:30:22.728 [VehicleDeleted] ExpansionUh1h (id=83A2A9125D4CD6453F1D1FA837F39AD5 pos=<1231.088013, 168.750504, 7566.869629>)
+06:30:33.492 [VehicleEngine] Player j420 [uid=bBw_D3S9A1Q9QDB8rzokX6lqvwo5tNiEzsI52YAjy_0=] stopped vehicle Merlin (id=9E24320C454FDC60C9D269B8802F9C4C pos=<4679.441895, 371.828308, 879.030151>)
+06:30:36.355 [VehicleLeave] Player j420 [uid=bBw_D3S9A1Q9QDB8rzokX6lqvwo5tNiEzsI52YAjy_0=] left vehicle Merlin (id=9E24320C454FDC60C9D269B8802F9C4C pos=<4679.430176, 371.825043, 879.054260>)
+06:32:07.255 [VehicleDestroyed] ExpansionUh1h_Uber (id=1D2748016F40DE56AD769B8B5ECF3073 pos=<1227.745728, 169.336731, 7566.602539>)
+06:33:30.509 [Party] Player "MrBDazzler" (id=KbTeFa3kKYGqzcZV8TSKiaoNoxGVDwoJjTtulj1WEPI=) left the party "kt06" (id=2 ownerUID=p8BJtCkPdMj4ZVYbNs7tJidYP0mOqJWQltw-Flz63MM= ownerName=daddy_kt06)
+06:34:04.474 [Party] Player "MrBDazzler" (id=KbTeFa3kKYGqzcZV8TSKiaoNoxGVDwoJjTtulj1WEPI=) joinded the party "kt06" (id=2 ownerUID=p8BJtCkPdMj4ZVYbNs7tJidYP0mOqJWQltw-Flz63MM= ownerName=daddy_kt06)
+06:34:04.482 [AI Patrol] Spawning 3 Shamans bots at <4276.886230, 238.350006, 10432.495117>
+06:34:04.500 [AI Patrol] Spawning 3 Shamans bots at <4057.558594, 238.160004, 10369.169922>
+06:34:12.150 [SpawnSelection] Player "MrBDazzler" (id=KbTeFa3kKYGqzcZV8TSKiaoNoxGVDwoJjTtulj1WEPI=) spawned at <6426.084473, 201.526901, 11602.169922>
+06:38:00.125 [VehicleDeleted] ExpansionUh1h_Uber (id=1D2748016F40DE56AD769B8B5ECF3073 pos=<1231.000854, 168.750015, 7566.898438>)
+06:40:10.052 [VehicleDestroyed] ExpansionUh1h_Medical (id=56001114A84B1D7CCC09FAB534683CED pos=<1227.745728, 169.336792, 7566.602539>)
+06:42:33.439 [AI Patrol] Spawning 3 Shamans bots at <5068.600586, 506.162537, 2014.078247>
+06:46:04.324 [VehicleDeleted] ExpansionUh1h_Medical (id=56001114A84B1D7CCC09FAB534683CED pos=<1231.105591, 168.753983, 7566.851074>)
+06:47:48.851 [VehicleDestroyed] ExpansionUh1h_Resistance (id=5D965AEFA446BAD761AD4CAD912571D1 pos=<7924.702637, 169.357971, 11833.753906>)
+06:50:29.923 [Party] Player "MrBDazzler" (id=KbTeFa3kKYGqzcZV8TSKiaoNoxGVDwoJjTtulj1WEPI=) joinded the party "kt06" (id=2 ownerUID=p8BJtCkPdMj4ZVYbNs7tJidYP0mOqJWQltw-Flz63MM= ownerName=daddy_kt06)
+06:50:37.982 [SpawnSelection] Player "MrBDazzler" (id=KbTeFa3kKYGqzcZV8TSKiaoNoxGVDwoJjTtulj1WEPI=) spawned at <6600.863281, 188.712906, 11543.671875>
+06:53:41.630 [VehicleDeleted] ExpansionUh1h_Resistance (id=5D965AEFA446BAD761AD4CAD912571D1 pos=<7924.776855, 169.422424, 11833.537109>)
+06:55:51.558 [VehicleDestroyed] ExpansionUh1h_Medical (id=A3DD4746B643B1E5F233E2AD4689EB08 pos=<7924.676270, 169.609253, 11833.733398>)
+06:59:31.066 [AI Patrol] Spawning 3 Shamans bots at <5617.582520, 420.032593, 3722.208740>
+07:01:23.357 [AI Patrol] Spawning 3 Shamans bots at <6493.378906, 389.837280, 3727.014160>
+07:01:45.851 [VehicleDeleted] ExpansionUh1h_Medical (id=A3DD4746B643B1E5F233E2AD4689EB08 pos=<7924.410645, 169.341812, 11833.447266>)
+07:03:30.378 [VehicleDestroyed] ExpansionUh1h_Uber (id=E9C5BFE62046D104F5B911A0AD745BF0 pos=<7924.677734, 169.614349, 11833.774414>)
+07:09:23.152 [VehicleDeleted] ExpansionUh1h_Uber (id=E9C5BFE62046D104F5B911A0AD745BF0 pos=<7924.292480, 169.314850, 11833.475586>)
+07:11:33.078 [VehicleDestroyed] ExpansionUh1h (id=307748290D410C81BAB7A984DF6D5D8B pos=<1227.745728, 169.336746, 7566.602539>)
+07:12:29.365 [Party] Player "MrBDazzler" (id=KbTeFa3kKYGqzcZV8TSKiaoNoxGVDwoJjTtulj1WEPI=) joinded the party "kt06" (id=2 ownerUID=p8BJtCkPdMj4ZVYbNs7tJidYP0mOqJWQltw-Flz63MM= ownerName=daddy_kt06)
+07:12:36.062 [SpawnSelection] Player "MrBDazzler" (id=KbTeFa3kKYGqzcZV8TSKiaoNoxGVDwoJjTtulj1WEPI=) spawned at <7015.449219, 172.516708, 11113.072266>
+07:17:27.355 [VehicleDeleted] ExpansionUh1h (id=307748290D410C81BAB7A984DF6D5D8B pos=<1231.022461, 168.747864, 7566.899902>)
+07:19:11.884 [VehicleDestroyed] ExpansionUh1h_Medical (id=67888B2C854BDE61336D99B31DE80738 pos=<7924.729492, 169.336273, 11833.794922>)
+07:23:43.429 [Party] Player "MrBDazzler" (id=KbTeFa3kKYGqzcZV8TSKiaoNoxGVDwoJjTtulj1WEPI=) joinded the party "kt06" (id=2 ownerUID=p8BJtCkPdMj4ZVYbNs7tJidYP0mOqJWQltw-Flz63MM= ownerName=daddy_kt06)
+07:24:41.255 [SpawnSelection] Player "MrBDazzler" (id=KbTeFa3kKYGqzcZV8TSKiaoNoxGVDwoJjTtulj1WEPI=) spawned at <6237.983398, 170.833481, 10880.137695>
+07:25:04.658 [VehicleDeleted] ExpansionUh1h_Medical (id=67888B2C854BDE61336D99B31DE80738 pos=<7924.599609, 169.374084, 11833.609375>)
+07:27:14.585 [VehicleDestroyed] ExpansionUh1h_Resistance (id=5DFB19AD7E4FFD2754B6B987AC6FDB27 pos=<1227.730957, 169.336929, 7566.598145>)
+07:33:08.865 [VehicleDeleted] ExpansionUh1h_Resistance (id=5DFB19AD7E4FFD2754B6B987AC6FDB27 pos=<1230.969360, 168.757324, 7566.879883>)
+07:34:53.392 [VehicleDestroyed] ExpansionUh1h (id=6ECC5C35874355FEEE2E5CAA2CD60326 pos=<7924.761230, 169.293945, 11833.851563>)
+07:40:46.166 [VehicleDeleted] ExpansionUh1h (id=6ECC5C35874355FEEE2E5CAA2CD60326 pos=<7924.469727, 169.246887, 11834.063477>)
+07:42:44.357 [MissionAirdrop] An airdrop is heading towards "Zapadlisko" (pos=<8399.000000, 0.000000, 8803.000000> type=Random_Zapadlisko) with a ExpansionAirdropContainer_Military
+07:42:54.357 [MissionAirdrop] An airdrop is heading towards "Brena" (pos=<6692.000000, 0.000000, 11442.000000> type=Random_Brena) with a ExpansionAirdropContainer_Military
+07:42:56.093 [VehicleDestroyed] ExpansionUh1h_Medical (id=8F2B5B29394B643E213D23BFB1E24E7F pos=<7924.763672, 169.658569, 11833.642578>)
+07:48:14.673 [Party] Player "MrBDazzler" (id=KbTeFa3kKYGqzcZV8TSKiaoNoxGVDwoJjTtulj1WEPI=) left the party "kt06" (id=2 ownerUID=p8BJtCkPdMj4ZVYbNs7tJidYP0mOqJWQltw-Flz63MM= ownerName=daddy_kt06)
+07:48:50.367 [VehicleDeleted] ExpansionUh1h_Medical (id=8F2B5B29394B643E213D23BFB1E24E7F pos=<7924.663086, 169.391342, 11833.432617>)
+07:50:34.927 [VehicleDestroyed] ExpansionUh1h_Medical (id=5358F7F2094E77E60EF4EF8BAB019C2C pos=<7924.538086, 169.386673, 11833.509766>)
+07:56:27.876 [VehicleDeleted] ExpansionUh1h_Medical (id=5358F7F2094E77E60EF4EF8BAB019C2C pos=<7924.508789, 169.399506, 11833.427734>)
+07:58:37.804 [VehicleDestroyed] ExpansionUh1h_Medical (id=68DD83054D431F895A59F0A8E9BE723C pos=<1227.727051, 169.337128, 7566.596680>)
+08:02:49.011 [Party] Player "j420" (id=bBw_D3S9A1Q9QDB8rzokX6lqvwo5tNiEzsI52YAjy_0=) left the party "kt06" (id=2 ownerUID=p8BJtCkPdMj4ZVYbNs7tJidYP0mOqJWQltw-Flz63MM= ownerName=daddy_kt06)
+08:09:23.921 [Party] Player "j420" (id=bBw_D3S9A1Q9QDB8rzokX6lqvwo5tNiEzsI52YAjy_0=) joinded the party "kt06" (id=2 ownerUID=p8BJtCkPdMj4ZVYbNs7tJidYP0mOqJWQltw-Flz63MM= ownerName=daddy_kt06)
+08:09:56.039 [VehicleDeleted] ExpansionUh1h_Medical (id=68DD83054D431F895A59F0A8E9BE723C pos=<1231.647583, 168.749634, 7566.721680>)
+08:11:13.666 [VehicleDestroyed] ExpansionUh1h_Medical (id=2329B128C74F5ADCFD42839F34C8FB9E pos=<7924.600098, 169.564178, 11833.896484>)
+08:16:30.345 [Party] Player "MrBDazzler" (id=KbTeFa3kKYGqzcZV8TSKiaoNoxGVDwoJjTtulj1WEPI=) joinded the party "kt06" (id=2 ownerUID=p8BJtCkPdMj4ZVYbNs7tJidYP0mOqJWQltw-Flz63MM= ownerName=daddy_kt06)
+08:17:06.453 [VehicleDeleted] ExpansionUh1h_Medical (id=2329B128C74F5ADCFD42839F34C8FB9E pos=<7925.138672, 169.009460, 11835.666016>)
+08:19:16.429 [VehicleDestroyed] ExpansionUh1h_Medical (id=24FCB768C94771113BEFFCAADBB7C25D pos=<1227.745117, 169.336807, 7566.603027>)
+08:25:10.703 [VehicleDeleted] ExpansionUh1h_Medical (id=24FCB768C94771113BEFFCAADBB7C25D pos=<1231.070068, 168.749115, 7566.880371>)
+08:26:55.230 [VehicleDestroyed] ExpansionUh1h (id=60FEA51DA64E6DACD59FA4BD9C19C622 pos=<7924.627930, 169.621490, 11833.830078>)
+08:32:48.001 [VehicleDeleted] ExpansionUh1h (id=60FEA51DA64E6DACD59FA4BD9C19C622 pos=<7925.316406, 169.024261, 11835.757813>)
+08:34:57.929 [VehicleDestroyed] ExpansionUh1h (id=3CC1F3D3E949EC54E85A5DA0F004B84A pos=<1227.689453, 169.341660, 7566.563477>)
+08:37:43.927 [VehicleEnter] Player j420 [uid=bBw_D3S9A1Q9QDB8rzokX6lqvwo5tNiEzsI52YAjy_0=] entered vehicle Gunter 2 (id=3F938E7F1B4BC6F2ECCF988461000F7B pos=<6067.375488, 386.314362, 4177.860840>) as driver
+08:38:21.210 [VehicleEngine] Player j420 [uid=bBw_D3S9A1Q9QDB8rzokX6lqvwo5tNiEzsI52YAjy_0=] started vehicle Gunter 2 (id=3F938E7F1B4BC6F2ECCF988461000F7B pos=<6067.370117, 386.314423, 4177.861816>)
+08:38:57.664 [VehicleEngine] Player j420 [uid=bBw_D3S9A1Q9QDB8rzokX6lqvwo5tNiEzsI52YAjy_0=] stopped vehicle Gunter 2 (id=3F938E7F1B4BC6F2ECCF988461000F7B pos=<5846.427734, 404.343872, 4045.622559>)
+08:39:01.697 [VehicleLeave] Player j420 [uid=bBw_D3S9A1Q9QDB8rzokX6lqvwo5tNiEzsI52YAjy_0=] left vehicle Gunter 2 (id=3F938E7F1B4BC6F2ECCF988461000F7B pos=<5846.427734, 404.343811, 4045.628174>)
+08:40:52.269 [VehicleDeleted] ExpansionUh1h (id=3CC1F3D3E949EC54E85A5DA0F004B84A pos=<1230.884888, 168.752914, 7566.923828>)
+08:42:36.798 [VehicleDestroyed] ExpansionUh1h_Uber (id=EA842143F94D398E10779E84133A9DE4 pos=<7924.615234, 169.287918, 11833.748047>)
+08:47:04.806 [VehicleEnter] Player j420 [uid=bBw_D3S9A1Q9QDB8rzokX6lqvwo5tNiEzsI52YAjy_0=] entered vehicle Gunter 2 (id=3F938E7F1B4BC6F2ECCF988461000F7B pos=<5846.428223, 404.342499, 4045.659424>) as driver
+08:47:08.628 [VehicleEngine] Player j420 [uid=bBw_D3S9A1Q9QDB8rzokX6lqvwo5tNiEzsI52YAjy_0=] started vehicle Gunter 2 (id=3F938E7F1B4BC6F2ECCF988461000F7B pos=<5846.428711, 404.340271, 4045.709961>)
+08:48:29.582 [VehicleDeleted] ExpansionUh1h_Uber (id=EA842143F94D398E10779E84133A9DE4 pos=<7920.971680, 168.599640, 11833.840820>)
+08:48:37.718 [AI Patrol] Spawning 3 Shamans bots at <7298.080566, 261.209656, 8457.842773>
+08:50:27.470 [AI Patrol] Spawning 3 Shamans bots at <6211.757813, 266.733337, 6948.772949>
+08:50:39.554 [VehicleDestroyed] ExpansionUh1h_Uber (id=5E1B5AAE3E4BFC63961303A389066E39 pos=<1227.744995, 169.336929, 7566.602539>)
+08:52:13.947 [VehicleLeave] Player j420 [uid=bBw_D3S9A1Q9QDB8rzokX6lqvwo5tNiEzsI52YAjy_0=] left vehicle Gunter 2 (id=3F938E7F1B4BC6F2ECCF988461000F7B pos=<6202.210449, 255.200500, 7051.457031>)
+08:56:33.828 [VehicleDeleted] ExpansionUh1h_Uber (id=5E1B5AAE3E4BFC63961303A389066E39 pos=<1231.078003, 168.750290, 7566.873535>)
+08:57:54.636 [VehicleEnter] Player j420 [uid=bBw_D3S9A1Q9QDB8rzokX6lqvwo5tNiEzsI52YAjy_0=] entered vehicle Gunter 2 (id=3F938E7F1B4BC6F2ECCF988461000F7B pos=<6202.209961, 255.200500, 7051.457031>) as driver
+08:57:58.035 [VehicleEngine] Player j420 [uid=bBw_D3S9A1Q9QDB8rzokX6lqvwo5tNiEzsI52YAjy_0=] started vehicle Gunter 2 (id=3F938E7F1B4BC6F2ECCF988461000F7B pos=<6202.209473, 255.200470, 7051.457031>)
+08:58:18.355 [VehicleDestroyed] ExpansionUh1h_Medical (id=C5CC52767442A79E7B358D9C47C82421 pos=<7924.706055, 169.384460, 11833.722656>)
+09:00:00.882 [VehicleLeave] Player j420 [uid=bBw_D3S9A1Q9QDB8rzokX6lqvwo5tNiEzsI52YAjy_0=] left vehicle Gunter 2 (id=3F938E7F1B4BC6F2ECCF988461000F7B pos=<6279.100098, 228.775696, 8092.594238>)
+09:04:11.128 [VehicleDeleted] ExpansionUh1h_Medical (id=C5CC52767442A79E7B358D9C47C82421 pos=<7924.571777, 169.434067, 11833.323242>)
+09:06:21.054 [VehicleDestroyed] ExpansionUh1h_Resistance (id=2816A8E0414BFB574CF5DA8378D0AD68 pos=<1227.598389, 169.357086, 7566.476074>)
+09:09:52.414 [MissionAirdrop] An airdrop is heading towards "Dolnik" (pos=<11491.000000, 0.000000, 763.000000> type=Random_Dolnik) with a ExpansionAirdropContainer
+09:10:02.414 [MissionAirdrop] An airdrop is heading towards "Tarnow" (pos=<9976.000000, 0.000000, 11000.000000> type=Random_Tarnow) with a ExpansionAirdropContainer_Medical
+09:12:15.328 [VehicleDeleted] ExpansionUh1h_Resistance (id=2816A8E0414BFB574CF5DA8378D0AD68 pos=<1230.927124, 168.751038, 7566.917969>)
+09:13:59.882 [VehicleDestroyed] ExpansionUh1h (id=414C1654D144236F27CFD4AB830B236B pos=<7924.694824, 169.385223, 11833.657227>)
+09:16:25.914 [VehicleEnter] Player j420 [uid=bBw_D3S9A1Q9QDB8rzokX6lqvwo5tNiEzsI52YAjy_0=] entered vehicle Gunter 2 (id=3F938E7F1B4BC6F2ECCF988461000F7B pos=<6279.101074, 228.775787, 8092.594238>) as passenger
+09:17:01.472 [VehicleEnter] Player MrBDazzler [uid=KbTeFa3kKYGqzcZV8TSKiaoNoxGVDwoJjTtulj1WEPI=] entered vehicle Gunter 2 (id=3F938E7F1B4BC6F2ECCF988461000F7B pos=<6279.101074, 228.775787, 8092.594238>) as passenger
+09:17:02.867 [VehicleEnter] Player MrBDazzler [uid=KbTeFa3kKYGqzcZV8TSKiaoNoxGVDwoJjTtulj1WEPI=] switched seats in vehicle Gunter 2 (id=3F938E7F1B4BC6F2ECCF988461000F7B pos=<6279.101074, 228.775787, 8092.594238>) to passenger
+09:17:25.765 [VehicleEnter] Player j420 [uid=bBw_D3S9A1Q9QDB8rzokX6lqvwo5tNiEzsI52YAjy_0=] switched seats in vehicle Gunter 2 (id=3F938E7F1B4BC6F2ECCF988461000F7B pos=<6279.101074, 228.775787, 8092.594238>) to driver
+09:17:26.406 [VehicleEnter] Player MrBDazzler [uid=KbTeFa3kKYGqzcZV8TSKiaoNoxGVDwoJjTtulj1WEPI=] switched seats in vehicle Gunter 2 (id=3F938E7F1B4BC6F2ECCF988461000F7B pos=<6279.102051, 228.775757, 8092.594238>) to passenger
+09:17:30.121 [VehicleEngine] Player j420 [uid=bBw_D3S9A1Q9QDB8rzokX6lqvwo5tNiEzsI52YAjy_0=] started vehicle Gunter 2 (id=3F938E7F1B4BC6F2ECCF988461000F7B pos=<6279.104492, 228.775711, 8092.594238>)
+09:17:32.367 [VehicleLeave] Player MrBDazzler [uid=KbTeFa3kKYGqzcZV8TSKiaoNoxGVDwoJjTtulj1WEPI=] left vehicle Gunter 2 (id=3F938E7F1B4BC6F2ECCF988461000F7B pos=<6281.998535, 228.598007, 8094.156250>)
+09:17:36.742 [VehicleEnter] Player MrBDazzler [uid=KbTeFa3kKYGqzcZV8TSKiaoNoxGVDwoJjTtulj1WEPI=] entered vehicle Gunter 2 (id=3F938E7F1B4BC6F2ECCF988461000F7B pos=<6282.212891, 228.584549, 8094.276367>) as passenger
+09:17:59.343 [VehicleEngine] Player j420 [uid=bBw_D3S9A1Q9QDB8rzokX6lqvwo5tNiEzsI52YAjy_0=] stopped vehicle Gunter 2 (id=3F938E7F1B4BC6F2ECCF988461000F7B pos=<6226.787598, 235.708710, 8002.947266>)
+09:18:00.539 [VehicleEnter] Player j420 [uid=bBw_D3S9A1Q9QDB8rzokX6lqvwo5tNiEzsI52YAjy_0=] switched seats in vehicle Gunter 2 (id=3F938E7F1B4BC6F2ECCF988461000F7B pos=<6226.787598, 235.707260, 8002.971191>) to passenger
+09:18:07.335 [Party] Player "ACEJOE22" (id=mBw6n0bDTvXbhT18774VV4ct6ETAGsI_ijL3KUaP-0o=) joinded the party "kt06" (id=2 ownerUID=p8BJtCkPdMj4ZVYbNs7tJidYP0mOqJWQltw-Flz63MM= ownerName=daddy_kt06)
+09:18:15.839 [SpawnSelection] Player "ACEJOE22" (id=mBw6n0bDTvXbhT18774VV4ct6ETAGsI_ijL3KUaP-0o=) spawned at <10999.512695, 173.887360, 11395.913086>
+09:18:21.375 [VehicleLeave] Player MrBDazzler [uid=KbTeFa3kKYGqzcZV8TSKiaoNoxGVDwoJjTtulj1WEPI=] left vehicle Gunter 2 (id=3F938E7F1B4BC6F2ECCF988461000F7B pos=<6226.787598, 235.704544, 8003.015625>)
+09:18:32.234 [VehicleEnter] Player MrBDazzler [uid=KbTeFa3kKYGqzcZV8TSKiaoNoxGVDwoJjTtulj1WEPI=] entered vehicle Gunter 2 (id=3F938E7F1B4BC6F2ECCF988461000F7B pos=<6226.787598, 235.702652, 8003.047852>) as driver
+09:18:38.937 [VehicleEngine] Player MrBDazzler [uid=KbTeFa3kKYGqzcZV8TSKiaoNoxGVDwoJjTtulj1WEPI=] started vehicle Gunter 2 (id=3F938E7F1B4BC6F2ECCF988461000F7B pos=<6226.787109, 235.693893, 8003.192871>)
+09:19:52.660 [VehicleDeleted] ExpansionUh1h (id=414C1654D144236F27CFD4AB830B236B pos=<7924.584473, 169.383575, 11833.554688>)
+09:20:08.230 [Party] Player "ACEJOE22" (id=mBw6n0bDTvXbhT18774VV4ct6ETAGsI_ijL3KUaP-0o=) left the party "kt06" (id=2 ownerUID=p8BJtCkPdMj4ZVYbNs7tJidYP0mOqJWQltw-Flz63MM= ownerName=daddy_kt06)
+09:20:35.765 [Party] Player "ACEJOE22" (id=mBw6n0bDTvXbhT18774VV4ct6ETAGsI_ijL3KUaP-0o=) joinded the party "kt06" (id=2 ownerUID=p8BJtCkPdMj4ZVYbNs7tJidYP0mOqJWQltw-Flz63MM= ownerName=daddy_kt06)
+09:20:39.492 [VehicleLeave] Player j420 [uid=bBw_D3S9A1Q9QDB8rzokX6lqvwo5tNiEzsI52YAjy_0=] left vehicle Gunter 2 (id=3F938E7F1B4BC6F2ECCF988461000F7B pos=<6226.784668, 235.539490, 8005.709473>)
+09:20:41.976 [SpawnSelection] Player "ACEJOE22" (id=mBw6n0bDTvXbhT18774VV4ct6ETAGsI_ijL3KUaP-0o=) spawned at <6116.879395, 185.599640, 11316.484375>
+09:21:09.882 [VehicleEnter] Player j420 [uid=bBw_D3S9A1Q9QDB8rzokX6lqvwo5tNiEzsI52YAjy_0=] entered vehicle Gunter 2 (id=3F938E7F1B4BC6F2ECCF988461000F7B pos=<6226.783203, 235.498245, 8006.374512>) as passenger
+09:22:02.605 [VehicleDestroyed] ExpansionUh1h_Medical (id=76852822CE48172BC9734D8AB71E71B1 pos=<7924.764160, 169.341644, 11833.692383>)
+09:22:12.046 [AI Patrol] Spawning 3 Shamans bots at <6418.593262, 239.696671, 8035.467285>
+09:22:30.378 [VehicleLeave] Player MrBDazzler [uid=KbTeFa3kKYGqzcZV8TSKiaoNoxGVDwoJjTtulj1WEPI=] left vehicle Gunter 2 (id=3F938E7F1B4BC6F2ECCF988461000F7B pos=<6065.533691, 250.213257, 7761.013184>)
+09:22:34.574 [VehicleLeave] Player j420 [uid=bBw_D3S9A1Q9QDB8rzokX6lqvwo5tNiEzsI52YAjy_0=] left vehicle Gunter 2 (id=3F938E7F1B4BC6F2ECCF988461000F7B pos=<6065.590820, 250.204346, 7761.117188>)
+09:22:59.757 [VehicleEnter] Player j420 [uid=bBw_D3S9A1Q9QDB8rzokX6lqvwo5tNiEzsI52YAjy_0=] entered vehicle Gunter 2 (id=3F938E7F1B4BC6F2ECCF988461000F7B pos=<6066.056641, 250.159012, 7761.626953>) as driver
+09:23:03.324 [VehicleEnter] Player MrBDazzler [uid=KbTeFa3kKYGqzcZV8TSKiaoNoxGVDwoJjTtulj1WEPI=] entered vehicle Gunter 2 (id=3F938E7F1B4BC6F2ECCF988461000F7B pos=<6066.104492, 250.154419, 7761.675781>) as passenger
+09:27:56.937 [VehicleDeleted] ExpansionUh1h_Medical (id=76852822CE48172BC9734D8AB71E71B1 pos=<7921.015625, 168.579437, 11834.025391>)
+09:28:57.320 [AI Patrol] Spawning 3 Shamans bots at <3805.142334, 239.137177, 10212.621094>
+09:29:41.507 [VehicleDestroyed] ExpansionUh1h_Uber (id=8A0DAD126B4077F8BD27BDA129AE0886 pos=<7924.550293, 169.581284, 11833.828125>)
+09:30:12.933 [VehicleLeave] Player j420 [uid=bBw_D3S9A1Q9QDB8rzokX6lqvwo5tNiEzsI52YAjy_0=] left vehicle Gunter 2 (id=3F938E7F1B4BC6F2ECCF988461000F7B pos=<4164.106934, 206.812698, 9648.512695>)
+09:30:27.164 [VehicleEnter] Player j420 [uid=bBw_D3S9A1Q9QDB8rzokX6lqvwo5tNiEzsI52YAjy_0=] entered vehicle Gunter 2 (id=3F938E7F1B4BC6F2ECCF988461000F7B pos=<4164.385742, 206.764633, 9647.985352>) as driver
+09:32:57.816 [VehicleLeave] Player j420 [uid=bBw_D3S9A1Q9QDB8rzokX6lqvwo5tNiEzsI52YAjy_0=] left vehicle Gunter 2 (id=3F938E7F1B4BC6F2ECCF988461000F7B pos=<4277.208984, 232.199219, 10005.666992>)
+09:33:42.554 [VehicleLeave] Player MrBDazzler [uid=KbTeFa3kKYGqzcZV8TSKiaoNoxGVDwoJjTtulj1WEPI=] left vehicle Gunter 2 (id=3F938E7F1B4BC6F2ECCF988461000F7B pos=<4277.208496, 232.199203, 10005.666992>)
+09:35:34.281 [VehicleDeleted] ExpansionUh1h_Uber (id=8A0DAD126B4077F8BD27BDA129AE0886 pos=<7924.373047, 169.306442, 11833.576172>)
+09:37:44.156 [VehicleDestroyed] ExpansionUh1h_Medical (id=3ACE4522C44E57520A28D1A154AC0C3A pos=<7924.924805, 169.296967, 11834.181641>)
+09:37:52.988 [Party] Player "ACEJOE22" (id=mBw6n0bDTvXbhT18774VV4ct6ETAGsI_ijL3KUaP-0o=) left the party "kt06" (id=2 ownerUID=p8BJtCkPdMj4ZVYbNs7tJidYP0mOqJWQltw-Flz63MM= ownerName=daddy_kt06)
+09:40:06.238 [Party] Player "ACEJOE22" (id=mBw6n0bDTvXbhT18774VV4ct6ETAGsI_ijL3KUaP-0o=) joinded the party "kt06" (id=2 ownerUID=p8BJtCkPdMj4ZVYbNs7tJidYP0mOqJWQltw-Flz63MM= ownerName=daddy_kt06)
+09:40:27.718 [SpawnSelection] Player "ACEJOE22" (id=mBw6n0bDTvXbhT18774VV4ct6ETAGsI_ijL3KUaP-0o=) spawned at <6426.084473, 201.526901, 11602.169922>
+09:43:38.523 [VehicleDeleted] ExpansionUh1h_Medical (id=3ACE4522C44E57520A28D1A154AC0C3A pos=<7924.793945, 169.299576, 11834.082031>)
+09:45:23.054 [VehicleDestroyed] ExpansionUh1h_Resistance (id=D7E6E72C3D41F392A68010A5E1848EE1 pos=<1227.744995, 169.336945, 7566.602539>)
+09:51:15.824 [VehicleDeleted] ExpansionUh1h_Resistance (id=D7E6E72C3D41F392A68010A5E1848EE1 pos=<1231.015259, 168.760071, 7566.854492>)
+09:53:25.753 [VehicleDestroyed] ExpansionUh1h_Uber (id=A1D27E6BCA45B67279778399332F8654 pos=<7924.614746, 169.357620, 11833.831055>)
+09:59:20.023 [VehicleDeleted] ExpansionUh1h_Uber (id=A1D27E6BCA45B67279778399332F8654 pos=<7924.508301, 169.289139, 11833.846680>)
+10:01:04.578 [VehicleDestroyed] ExpansionUh1h_Uber (id=D1042A210E4BFB8169846BBFA1FE812B pos=<7924.675781, 169.376175, 11833.699219>)
+10:06:57.324 [VehicleDeleted] ExpansionUh1h_Uber (id=D1042A210E4BFB8169846BBFA1FE812B pos=<7924.608887, 169.374695, 11833.612305>)
+10:09:07.281 [VehicleDestroyed] ExpansionUh1h (id=729991EFED473DF31A9229960E1AAFE3 pos=<7924.760254, 169.399399, 11833.583008>)
+10:15:01.527 [VehicleDeleted] ExpansionUh1h (id=729991EFED473DF31A9229960E1AAFE3 pos=<7924.710938, 169.420303, 11833.496094>)
+10:16:46.054 [VehicleDestroyed] ExpansionUh1h_Medical (id=BC8F3C447A471654FB24AEB2AF76D899 pos=<1227.745605, 169.336884, 7566.602539>)
+10:22:38.828 [VehicleDeleted] ExpansionUh1h_Medical (id=BC8F3C447A471654FB24AEB2AF76D899 pos=<1231.016235, 168.756546, 7566.868652>)
+10:24:48.781 [VehicleDestroyed] ExpansionUh1h_Medical (id=29200373944B42905924EB891CC56855 pos=<7924.885254, 169.330444, 11834.069336>)
+10:30:43.027 [VehicleDeleted] ExpansionUh1h_Medical (id=29200373944B42905924EB891CC56855 pos=<7924.708496, 169.315292, 11833.949219>)
+10:32:27.554 [VehicleDestroyed] ExpansionUh1h_Resistance (id=C67414626148740AF00660A23D331123 pos=<1227.745728, 169.336853, 7566.602539>)
+10:38:20.328 [VehicleDeleted] ExpansionUh1h_Resistance (id=C67414626148740AF00660A23D331123 pos=<1230.994507, 168.750671, 7566.897949>)
+10:39:24.453 [VehicleEnter] Player j420 [uid=bBw_D3S9A1Q9QDB8rzokX6lqvwo5tNiEzsI52YAjy_0=] entered vehicle Mh-6 Little Bird (id=01A417C4F5449C8FF0AE659785D9D7FE pos=<4150.066406, 238.464203, 10428.481445>) as passenger
+10:39:30.164 [VehicleLeave] Player j420 [uid=bBw_D3S9A1Q9QDB8rzokX6lqvwo5tNiEzsI52YAjy_0=] left vehicle Mh-6 Little Bird (id=01A417C4F5449C8FF0AE659785D9D7FE pos=<4150.066406, 238.464203, 10428.481445>)
+10:39:39.742 [VehicleEnter] Player j420 [uid=bBw_D3S9A1Q9QDB8rzokX6lqvwo5tNiEzsI52YAjy_0=] entered vehicle Mh-6 Little Bird (id=01A417C4F5449C8FF0AE659785D9D7FE pos=<4150.065430, 238.464264, 10428.481445>) as pilot
+10:39:41.683 [VehicleEngine] Player j420 [uid=bBw_D3S9A1Q9QDB8rzokX6lqvwo5tNiEzsI52YAjy_0=] started vehicle Mh-6 Little Bird (id=01A417C4F5449C8FF0AE659785D9D7FE pos=<4150.065430, 238.464249, 10428.481445>)
+10:39:43.429 [MissionAirdrop] An airdrop is heading towards "Zapadlisko" (pos=<8399.000000, 0.000000, 8803.000000> type=Random_Zapadlisko) with a ExpansionAirdropContainer_Military
+10:39:51.437 [MissionAirdrop] An airdrop is heading towards "Dolnik" (pos=<11491.000000, 0.000000, 763.000000> type=Random_Dolnik) with a ExpansionAirdropContainer
+10:40:30.257 [VehicleDestroyed] ExpansionUh1h_Medical (id=ACF0599849459D581BCC80BE21861684 pos=<1227.690674, 169.341446, 7566.563965>)
+10:40:57.625 [VehicleEngine] Player j420 [uid=bBw_D3S9A1Q9QDB8rzokX6lqvwo5tNiEzsI52YAjy_0=] stopped vehicle Mh-6 Little Bird (id=01A417C4F5449C8FF0AE659785D9D7FE pos=<4320.748047, 213.889053, 9671.512695>)
+10:41:02.183 [VehicleLeave] Player j420 [uid=bBw_D3S9A1Q9QDB8rzokX6lqvwo5tNiEzsI52YAjy_0=] left vehicle Mh-6 Little Bird (id=01A417C4F5449C8FF0AE659785D9D7FE pos=<4320.748047, 213.887787, 9671.513672>)
+10:41:15.117 [VehicleEnter] Player ACEJOE22 [uid=mBw6n0bDTvXbhT18774VV4ct6ETAGsI_ijL3KUaP-0o=] entered vehicle Gunter 2 (id=3F938E7F1B4BC6F2ECCF988461000F7B pos=<4277.204102, 232.199097, 10005.666992>) as driver
+10:41:16.632 [VehicleEngine] Player ACEJOE22 [uid=mBw6n0bDTvXbhT18774VV4ct6ETAGsI_ijL3KUaP-0o=] started vehicle Gunter 2 (id=3F938E7F1B4BC6F2ECCF988461000F7B pos=<4277.202637, 232.199127, 10005.666992>)
+10:41:54.621 [VehicleLeave] Player ACEJOE22 [uid=mBw6n0bDTvXbhT18774VV4ct6ETAGsI_ijL3KUaP-0o=] left vehicle Gunter 2 (id=3F938E7F1B4BC6F2ECCF988461000F7B pos=<4325.730957, 213.951828, 9671.645508>)
+10:43:43.394 [VehicleEnter] Player j420 [uid=bBw_D3S9A1Q9QDB8rzokX6lqvwo5tNiEzsI52YAjy_0=] entered vehicle Mh-6 Little Bird (id=01A417C4F5449C8FF0AE659785D9D7FE pos=<4320.755371, 213.888123, 9671.516602>) as pilot
+10:44:25.187 [VehicleEnter] Player ACEJOE22 [uid=mBw6n0bDTvXbhT18774VV4ct6ETAGsI_ijL3KUaP-0o=] entered vehicle Gunter 2 (id=3F938E7F1B4BC6F2ECCF988461000F7B pos=<4325.730957, 213.951492, 9671.638672>) as driver
+10:44:29.687 [VehicleLeave] Player j420 [uid=bBw_D3S9A1Q9QDB8rzokX6lqvwo5tNiEzsI52YAjy_0=] left vehicle Mh-6 Little Bird (id=01A417C4F5449C8FF0AE659785D9D7FE pos=<4320.757324, 213.888199, 9671.516602>)
+10:44:57.890 [VehicleEnter] Player j420 [uid=bBw_D3S9A1Q9QDB8rzokX6lqvwo5tNiEzsI52YAjy_0=] entered vehicle Mh-6 Little Bird (id=01A417C4F5449C8FF0AE659785D9D7FE pos=<4320.758789, 213.888245, 9671.517578>) as pilot
+10:45:17.289 [VehicleLeave] Player j420 [uid=bBw_D3S9A1Q9QDB8rzokX6lqvwo5tNiEzsI52YAjy_0=] left vehicle Mh-6 Little Bird (id=01A417C4F5449C8FF0AE659785D9D7FE pos=<4320.759277, 213.888245, 9671.517578>)
+10:45:22.085 [VehicleEnter] Player j420 [uid=bBw_D3S9A1Q9QDB8rzokX6lqvwo5tNiEzsI52YAjy_0=] entered vehicle Mh-6 Little Bird (id=01A417C4F5449C8FF0AE659785D9D7FE pos=<4320.759277, 213.888260, 9671.517578>) as pilot
+10:46:24.531 [VehicleDeleted] ExpansionUh1h_Medical (id=ACF0599849459D581BCC80BE21861684 pos=<1230.900513, 168.753448, 7566.916504>)
+10:46:53.054 [VehicleEngine] Player ACEJOE22 [uid=mBw6n0bDTvXbhT18774VV4ct6ETAGsI_ijL3KUaP-0o=] started vehicle Gunter 2 (id=3F938E7F1B4BC6F2ECCF988461000F7B pos=<4325.730957, 213.935425, 9671.314453>)
+10:48:09.062 [VehicleDestroyed] ExpansionUh1h (id=77646BEB094ECA2FE8ADA394C2C068A5 pos=<1227.745850, 169.336685, 7566.602539>)
+10:48:37.859 [VehicleLeave] Player ACEJOE22 [uid=mBw6n0bDTvXbhT18774VV4ct6ETAGsI_ijL3KUaP-0o=] left vehicle Gunter 2 (id=3F938E7F1B4BC6F2ECCF988461000F7B pos=<4144.625488, 178.721680, 9190.001953>)
+10:48:49.429 [VehicleEnter] Player ACEJOE22 [uid=mBw6n0bDTvXbhT18774VV4ct6ETAGsI_ijL3KUaP-0o=] entered vehicle Gunter 2 (id=3F938E7F1B4BC6F2ECCF988461000F7B pos=<4144.625000, 178.721680, 9190.001953>) as driver
+10:48:53.460 [VehicleLeave] Player ACEJOE22 [uid=mBw6n0bDTvXbhT18774VV4ct6ETAGsI_ijL3KUaP-0o=] left vehicle Gunter 2 (id=3F938E7F1B4BC6F2ECCF988461000F7B pos=<4144.625000, 178.721649, 9190.002930>)
+10:50:01.007 [VehicleEnter] Player ACEJOE22 [uid=mBw6n0bDTvXbhT18774VV4ct6ETAGsI_ijL3KUaP-0o=] entered vehicle Gunter 2 (id=3F938E7F1B4BC6F2ECCF988461000F7B pos=<4144.624512, 178.721680, 9190.002930>) as driver
+10:50:03.117 [VehicleEngine] Player j420 [uid=bBw_D3S9A1Q9QDB8rzokX6lqvwo5tNiEzsI52YAjy_0=] started vehicle Mh-6 Little Bird (id=01A417C4F5449C8FF0AE659785D9D7FE pos=<4320.765137, 213.888519, 9671.520508>)
+10:50:03.367 [VehicleEngine] Player ACEJOE22 [uid=mBw6n0bDTvXbhT18774VV4ct6ETAGsI_ijL3KUaP-0o=] started vehicle Gunter 2 (id=3F938E7F1B4BC6F2ECCF988461000F7B pos=<4144.624512, 178.721649, 9190.002930>)
+10:50:11.218 [VehicleEnter] Player MrBDazzler [uid=KbTeFa3kKYGqzcZV8TSKiaoNoxGVDwoJjTtulj1WEPI=] entered vehicle Mh-6 Little Bird (id=01A417C4F5449C8FF0AE659785D9D7FE pos=<4320.765137, 213.888535, 9671.520508>) as passenger
+10:51:59.257 [Party] Player "j420" (id=bBw_D3S9A1Q9QDB8rzokX6lqvwo5tNiEzsI52YAjy_0=) joinded the party "kt06" (id=2 ownerUID=p8BJtCkPdMj4ZVYbNs7tJidYP0mOqJWQltw-Flz63MM= ownerName=daddy_kt06)
+10:52:06.078 [SpawnSelection] Player "j420" (id=bBw_D3S9A1Q9QDB8rzokX6lqvwo5tNiEzsI52YAjy_0=) spawned at <7015.449219, 172.516708, 11113.072266>
+10:52:25.085 [Party] Player "MrBDazzler" (id=KbTeFa3kKYGqzcZV8TSKiaoNoxGVDwoJjTtulj1WEPI=) joinded the party "kt06" (id=2 ownerUID=p8BJtCkPdMj4ZVYbNs7tJidYP0mOqJWQltw-Flz63MM= ownerName=daddy_kt06)
+10:52:36.160 [SpawnSelection] Player "MrBDazzler" (id=KbTeFa3kKYGqzcZV8TSKiaoNoxGVDwoJjTtulj1WEPI=) spawned at <6237.983398, 170.833481, 10880.137695>
+10:54:01.835 [VehicleDeleted] ExpansionUh1h (id=77646BEB094ECA2FE8ADA394C2C068A5 pos=<1231.123169, 168.751694, 7566.853516>)
+10:54:32.062 [VehicleEnter] Player MrBDazzler [uid=KbTeFa3kKYGqzcZV8TSKiaoNoxGVDwoJjTtulj1WEPI=] entered vehicle Gunter 2 (id=3F938E7F1B4BC6F2ECCF988461000F7B pos=<5810.655273, 180.535706, 10749.578125>) as passenger
+10:55:27.468 [VehicleLeave] Player ACEJOE22 [uid=mBw6n0bDTvXbhT18774VV4ct6ETAGsI_ijL3KUaP-0o=] left vehicle Gunter 2 (id=3F938E7F1B4BC6F2ECCF988461000F7B pos=<6262.402832, 172.726929, 10965.233398>)
+10:55:27.726 [VehicleEnter] Player MrBDazzler [uid=KbTeFa3kKYGqzcZV8TSKiaoNoxGVDwoJjTtulj1WEPI=] switched seats in vehicle Gunter 2 (id=3F938E7F1B4BC6F2ECCF988461000F7B pos=<6262.402344, 172.726913, 10965.233398>) to passenger
+10:55:32.953 [VehicleEnter] Player j420 [uid=bBw_D3S9A1Q9QDB8rzokX6lqvwo5tNiEzsI52YAjy_0=] entered vehicle Gunter 2 (id=3F938E7F1B4BC6F2ECCF988461000F7B pos=<6262.402344, 172.726929, 10965.233398>) as driver
+10:55:34.656 [VehicleEngine] Player j420 [uid=bBw_D3S9A1Q9QDB8rzokX6lqvwo5tNiEzsI52YAjy_0=] started vehicle Gunter 2 (id=3F938E7F1B4BC6F2ECCF988461000F7B pos=<6262.402344, 172.726944, 10965.233398>)
+10:55:57.433 [Party] Player "ACEJOE22" (id=mBw6n0bDTvXbhT18774VV4ct6ETAGsI_ijL3KUaP-0o=) left the party "kt06" (id=2 ownerUID=p8BJtCkPdMj4ZVYbNs7tJidYP0mOqJWQltw-Flz63MM= ownerName=daddy_kt06)
+10:56:11.773 [VehicleDestroyed] ExpansionUh1h_Medical (id=177BB8CCA74D160B3ACE6B97E9AAC08E pos=<1227.733032, 169.337250, 7566.599121>)
+10:57:18.406 [Party] Player "ACEJOE22" (id=mBw6n0bDTvXbhT18774VV4ct6ETAGsI_ijL3KUaP-0o=) joinded the party "kt06" (id=2 ownerUID=p8BJtCkPdMj4ZVYbNs7tJidYP0mOqJWQltw-Flz63MM= ownerName=daddy_kt06)
+11:02:06.046 [VehicleDeleted] ExpansionUh1h_Medical (id=177BB8CCA74D160B3ACE6B97E9AAC08E pos=<1230.942505, 168.750488, 7566.915039>)
+11:03:50.601 [VehicleDestroyed] ExpansionUh1h_Medical (id=E6539510204F204883AC68A03D9D9471 pos=<7924.668457, 169.377441, 11833.678711>)
+11:05:48.804 [VehicleLeave] Player j420 [uid=bBw_D3S9A1Q9QDB8rzokX6lqvwo5tNiEzsI52YAjy_0=] left vehicle Gunter 2 (id=3F938E7F1B4BC6F2ECCF988461000F7B pos=<4461.190430, 327.227509, 6977.135742>)
+11:05:51.828 [VehicleLeave] Player MrBDazzler [uid=KbTeFa3kKYGqzcZV8TSKiaoNoxGVDwoJjTtulj1WEPI=] left vehicle Gunter 2 (id=3F938E7F1B4BC6F2ECCF988461000F7B pos=<4461.190430, 327.227539, 6977.135742>)
+11:09:15.234 [AI Patrol] Spawning 3 Shamans bots at <9124.430664, 194.241531, 11151.808594>
+11:10:06.398 [Party] Player "j420" (id=bBw_D3S9A1Q9QDB8rzokX6lqvwo5tNiEzsI52YAjy_0=) left the party "kt06" (id=2 ownerUID=p8BJtCkPdMj4ZVYbNs7tJidYP0mOqJWQltw-Flz63MM= ownerName=daddy_kt06)
+11:10:11.722 [Party] Player "MrBDazzler" (id=KbTeFa3kKYGqzcZV8TSKiaoNoxGVDwoJjTtulj1WEPI=) left the party "kt06" (id=2 ownerUID=p8BJtCkPdMj4ZVYbNs7tJidYP0mOqJWQltw-Flz63MM= ownerName=daddy_kt06)
+11:11:06.718 [Party] Player "ACEJOE22" (id=mBw6n0bDTvXbhT18774VV4ct6ETAGsI_ijL3KUaP-0o=) left the party "kt06" (id=2 ownerUID=p8BJtCkPdMj4ZVYbNs7tJidYP0mOqJWQltw-Flz63MM= ownerName=daddy_kt06)
+11:24:03.640 [VehicleDeleted] ExpansionUh1h_Medical (id=E6539510204F204883AC68A03D9D9471 pos=<7924.580078, 169.375656, 11833.586914>)
+11:24:27.441 [SpawnSelection] Player "[Admin] Bunker" (id=mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=) spawned at <8294.539063, 174.662094, 11968.569336>
+11:24:54.414 [VehicleDestroyed] ExpansionUh1h_Resistance (id=59AAC636FE4E17866ACE349D2DFAF376 pos=<1227.745117, 169.336807, 7566.603027>)
+11:30:47.203 [VehicleDeleted] ExpansionUh1h_Resistance (id=59AAC636FE4E17866ACE349D2DFAF376 pos=<1231.119995, 168.754364, 7566.844238>)
+11:30:49.386 [VehicleDeleted] Expansion_Landrover (id=2D0E35F2744FAB4C77F7AEBDC7942E02 pos=<4458.012695, 326.731445, 6979.187500>)
+11:30:49.390 [VehicleCover] Player "[Admin] Bunker" (id=mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY= pos=<4457.919922, 327.207245, 6975.934570>) covered vehicle "Expansion_Landrover" (GlobalID=80000000800000008000000080000B7B pos=<4458.012695, 326.731445, 6979.187500>)!
+11:31:01.257 [VehicleDeleted] Hatchback_02_BanditKitty (id=3F938E7F1B4BC6F2ECCF988461000F7B pos=<4461.190430, 327.227539, 6977.135742>)
+11:31:01.257 [VehicleCover] Player "[Admin] Bunker" (id=mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY= pos=<4459.152344, 327.073669, 6974.944336>) covered vehicle "Hatchback_02_BanditKitty" (GlobalID=80000000800000008000000080000010 pos=<4461.190430, 327.227539, 6977.135742>)!
+11:31:20.351 [VehicleCover] Player "[Admin] Bunker" (id=mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY= pos=<4457.527344, 326.874756, 6975.594727>) uncovered vehicle "Expansion_Landrover" (GlobalID=80000000800000008000000080000B7B pos=<4458.012695, 326.731445, 6979.187500>)!
+11:32:57.210 [VehicleDestroyed] ExpansionUh1h (id=5A68889D2841CD82F9FE25AC8604B409 pos=<7924.625488, 169.302582, 11833.777344>)
+11:35:31.769 [VehicleDeleted] Expansion_Landrover (id=CECDF25E7649256A2B302DA1B1653781 pos=<4457.995605, 326.729370, 6979.195313>)
+11:35:31.769 [VehicleCover] Player "[Admin] Bunker" (id=mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY= pos=<4457.646484, 326.851135, 6976.464844>) covered vehicle "Expansion_Landrover" (GlobalID=80000000800000008000000080000B7B pos=<4457.995605, 326.729370, 6979.195313>)!
+11:40:42.054 [VehicleCover] Player "[Admin] Bunker" (id=mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY= pos=<4458.354004, 326.960175, 6975.639648>) uncovered vehicle "Expansion_Landrover" (GlobalID=80000000800000008000000080000B7B pos=<4457.995605, 326.729370, 6979.195313>)!
+11:42:27.656 [VehicleDeleted] ExpansionUh1h (id=5A68889D2841CD82F9FE25AC8604B409 pos=<7921.053223, 168.616913, 11833.901367>)
+11:42:34.054 [VehicleDeleted] Expansion_Landrover (id=3F2BA900A24C505AE73013BB8A10B5CA pos=<4457.977539, 326.727051, 6979.203125>)
+11:42:34.054 [VehicleCover] Player "[Admin] Bunker" (id=mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY= pos=<4457.879395, 326.882935, 6976.291504>) covered vehicle "Expansion_Landrover" (GlobalID=80000000800000008000000080000B7B pos=<4457.977539, 326.727051, 6979.203125>)!
+11:43:34.105 [VehicleCover] Player "[Admin] Bunker" (id=mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY= pos=<4457.860840, 326.904510, 6975.725586>) uncovered vehicle "Expansion_Landrover" (GlobalID=80000000800000008000000080000B7B pos=<4457.977539, 326.727051, 6979.203125>)!
+11:43:45.332 [VehicleDestroyed] ExpansionUh1h (id=4C57B29E344136E81CDD59BC5F650393 pos=<7924.886719, 169.400208, 11833.725586>)
+11:43:54.753 [VehicleDeleted] Expansion_Landrover (id=71928BD0684B83B3D4F8E6B283367864 pos=<4457.960449, 326.724976, 6979.210938>)
+11:43:54.757 [VehicleCover] Player "[Admin] Bunker" (id=mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY= pos=<4457.194824, 326.799561, 6976.558105>) covered vehicle "Expansion_Landrover" (GlobalID=80000000800000008000000080000B7B pos=<4457.960449, 326.724976, 6979.210938>)!
+11:52:45.914 [Party] Player "j420" (id=bBw_D3S9A1Q9QDB8rzokX6lqvwo5tNiEzsI52YAjy_0=) joinded the party "kt06" (id=2 ownerUID=p8BJtCkPdMj4ZVYbNs7tJidYP0mOqJWQltw-Flz63MM= ownerName=daddy_kt06)
+11:53:08.359 [VehicleCover] Player "j420" (id=bBw_D3S9A1Q9QDB8rzokX6lqvwo5tNiEzsI52YAjy_0= pos=<4457.889648, 326.633759, 6982.555664>) uncovered vehicle "Expansion_Landrover" (GlobalID=80000000800000008000000080000B7B pos=<4457.960449, 326.724976, 6979.210938>)!
+11:56:07.687 [VehicleCover] Player "j420" (id=bBw_D3S9A1Q9QDB8rzokX6lqvwo5tNiEzsI52YAjy_0= pos=<4461.728516, 327.147583, 6979.700195>) uncovered vehicle "Hatchback_02_BanditKitty" (GlobalID=80000000800000008000000080000010 pos=<4461.190430, 327.227539, 6977.135742>)!
+11:57:10.953 [VehicleDeleted] Hatchback_02_BanditKitty (id=697104A856412AC12CF88D860C7CB9BD pos=<4461.187988, 327.227203, 6977.137207>)
+11:57:10.953 [VehicleCover] Player "j420" (id=bBw_D3S9A1Q9QDB8rzokX6lqvwo5tNiEzsI52YAjy_0= pos=<4461.806152, 327.148468, 6979.875977>) covered vehicle "Hatchback_02_BanditKitty" (GlobalID=80000000800000008000000080000010 pos=<4461.187988, 327.227203, 6977.137207>)!
+11:57:19.390 [VehicleDeleted] ExpansionUh1h (id=4C57B29E344136E81CDD59BC5F650393 pos=<7924.933105, 169.419205, 11833.680664>)
+11:57:35.113 [VehicleDeleted] Expansion_Landrover (id=7C1847121B44F7337ED928BB4119D947 pos=<4457.944336, 326.722961, 6979.218750>)
+11:57:35.113 [VehicleCover] Player "j420" (id=bBw_D3S9A1Q9QDB8rzokX6lqvwo5tNiEzsI52YAjy_0= pos=<4456.128906, 326.562500, 6979.557617>) covered vehicle "Expansion_Landrover" (GlobalID=80000000800000008000000080000B7B pos=<4457.944336, 326.722961, 6979.218750>)!
+11:59:02.445 [VehicleDestroyed] ExpansionUh1h_Medical (id=BD2AB90A1442E58085AC138401155B2C pos=<1227.745361, 169.336533, 7566.602539>)
+11:59:14.652 [Party] Player "j420" (id=bBw_D3S9A1Q9QDB8rzokX6lqvwo5tNiEzsI52YAjy_0=) left the party "kt06" (id=2 ownerUID=p8BJtCkPdMj4ZVYbNs7tJidYP0mOqJWQltw-Flz63MM= ownerName=daddy_kt06)

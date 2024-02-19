@@ -1,0 +1,12 @@
+00:08:10.293 [SpawnSelection] Player "brichases10" (id=NZRz9qooW2HMu3lFA8vNe0h9OZjMbLsuvHNPvjkLv9c=) spawned at <3640.191162, 244.446060, 12446.875977>
+00:09:08.100 [VehicleDestroyed] ExpansionUh1h (id=590B7310774222E91333F2BAB06C1316 pos=<1227.744873, 169.336731, 7566.602539>)
+00:12:43.241 [MissionAirdrop] An airdrop is heading towards "Karlin" (pos=<9975.000000, 0.000000, 7242.000000> type=Random_Karlin) with a ExpansionAirdropContainer_Medical
+00:13:23.238 [MissionAirdrop] An airdrop is heading towards "Zapadlisko" (pos=<8399.000000, 0.000000, 8803.000000> type=Random_Zapadlisko) with a ExpansionAirdropContainer_Military
+00:15:02.372 [VehicleDeleted] ExpansionUh1h (id=590B7310774222E91333F2BAB06C1316 pos=<1231.112671, 168.754486, 7566.846191>)
+00:16:46.898 [VehicleDestroyed] ExpansionUh1h_Uber (id=EAD26420DD462BBEBAF6A38B11B95116 pos=<1227.744873, 169.336945, 7566.602539>)
+00:22:39.671 [VehicleDeleted] ExpansionUh1h_Uber (id=EAD26420DD462BBEBAF6A38B11B95116 pos=<1231.128662, 168.752090, 7566.851074>)
+00:24:49.601 [VehicleDestroyed] ExpansionUh1h_Resistance (id=34788721344C2E1F80F13B951ED45A75 pos=<7924.744141, 169.221680, 11834.129883>)
+00:30:43.872 [VehicleDeleted] ExpansionUh1h_Resistance (id=34788721344C2E1F80F13B951ED45A75 pos=<7924.154785, 169.166321, 11834.168945>)
+00:32:28.400 [VehicleDestroyed] ExpansionUh1h_Medical (id=C63BFD78654B121A873603B95D9C6454 pos=<7924.774414, 169.652527, 11833.667969>)
+00:38:21.177 [VehicleDeleted] ExpansionUh1h_Medical (id=C63BFD78654B121A873603B95D9C6454 pos=<7924.734863, 169.391312, 11833.489258>)
+00:40:31.104 [VehicleDestroyed] ExpansionUh1h (id=BF2E7708884ADC6AE9D77A94ACB08AC8 pos=<1227.726563, 169.337387, 7566.595703>)
