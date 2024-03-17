@@ -1,0 +1,9 @@
+21:48:56.539 [SpawnSelection] Player "Raznor" (id=BZz0hyFqGrI6vSUKdT6BUZEeMn550blvc48Zb082isE=) spawned at <1291.614258, 286.404175, 9849.049805>
+21:49:07.968 [VehicleDestroyed] ExpansionUh1h_Resistance (id=2A797F7A68494E8A289280B6E52E72EB pos=<1227.745117, 169.336716, 7566.602051>)
+21:52:57.171 [MissionAirdrop] An airdrop is heading towards "Zapadlisko" (pos=<8399.000000, 0.000000, 8803.000000> type=Random_Zapadlisko) with a ExpansionAirdropContainer_Military
+21:53:07.171 [MissionAirdrop] An airdrop is heading towards "Nadbor" (pos=<5996.000000, 0.000000, 4513.000000> type=Random_Nadbor) with a ExpansionAirdropContainer_Basebuilding
+21:55:02.234 [VehicleDeleted] ExpansionUh1h_Resistance (id=2A797F7A68494E8A289280B6E52E72EB pos=<1231.119141, 168.754013, 7566.846191>)
+21:56:46.765 [VehicleDestroyed] ExpansionUh1h_Medical (id=A2C1A1552E4EA7841353139636980378 pos=<7924.531738, 169.574142, 11833.822266>)
+21:58:34.468 [SpawnSelection] Player "Raznor" (id=BZz0hyFqGrI6vSUKdT6BUZEeMn550blvc48Zb082isE=) spawned at <8553.800781, 187.723114, 12174.582031>
+22:02:39.554 [VehicleDeleted] ExpansionUh1h_Medical (id=A2C1A1552E4EA7841353139636980378 pos=<7924.429688, 169.317688, 11833.571289>)
+22:04:49.484 [VehicleDestroyed] ExpansionUh1h_Resistance (id=84D0E203B947D8057421C5B3A9C1E98A pos=<1227.744995, 169.336823, 7566.602051>)

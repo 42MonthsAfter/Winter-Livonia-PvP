@@ -1,0 +1,6 @@
+10:16:44.011 [VehicleCover] Player "[Admin] Bunker" (id=mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY= pos=<4462.334961, 327.370087, 6975.891113>) uncovered vehicle "Hatchback_02_BanditKitty" (GlobalID=80000000800000008000000080000010 pos=<4461.187988, 327.227203, 6977.137207>)!
+10:16:53.851 [VehicleDeleted] Hatchback_02_BanditKitty (id=1B6708B6194C8D6182715E8A8DAE9262 pos=<4461.186035, 327.226898, 6977.138672>)
+10:16:53.851 [VehicleCover] Player "[Admin] Bunker" (id=mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY= pos=<4462.334961, 327.370087, 6975.891113>) covered vehicle "Hatchback_02_BanditKitty" (GlobalID=80000000800000008000000080000010 pos=<4461.186035, 327.226898, 6977.138672>)!
+10:17:55.480 [VehicleDestroyed] ExpansionUh1h_Uber (id=794D600F494EC7EEE14A67B0EAA2AE96 pos=<1227.744751, 169.336868, 7566.603027>)
+10:21:41.480 [MissionAirdrop] An airdrop is heading towards "Gieraltow" (pos=<10899.000000, 0.000000, 4515.000000> type=Random_Gieraltow) with a ExpansionAirdropContainer_Basebuilding
+10:22:11.476 [MissionAirdrop] An airdrop is heading towards "Kolembrody" (pos=<8676.000000, 0.000000, 12114.000000> type=Random_Kolembrody) with a ExpansionAirdropContainer_Medical

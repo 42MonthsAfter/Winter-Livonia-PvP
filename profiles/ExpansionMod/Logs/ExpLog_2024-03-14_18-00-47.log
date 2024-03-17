@@ -1,0 +1,8 @@
+19:54:49.257 [SpawnSelection] Player "Cmal687" (id=p9VAMsoU43lZ0gBLvB0Ns7qmVLz3DUVyfPN19xn28Ws=) spawned at <3397.184326, 263.205750, 11606.515625>
+19:56:01.789 [VehicleDestroyed] ExpansionUh1h_Uber (id=DB2920AF7D4199969D25F3B1A7E78920 pos=<1227.723145, 169.337326, 7566.595215>)
+19:59:47.382 [MissionAirdrop] An airdrop is heading towards "Zapadlisko" (pos=<8399.000000, 0.000000, 8803.000000> type=Random_Zapadlisko) with a ExpansionAirdropContainer
+19:59:57.375 [MissionAirdrop] An airdrop is heading towards "Radunin" (pos=<7209.000000, 0.000000, 6073.000000> type=Random_Radunin) with a ExpansionAirdropContainer_Military
+20:01:56.062 [VehicleDeleted] ExpansionUh1h_Uber (id=DB2920AF7D4199969D25F3B1A7E78920 pos=<1230.932495, 168.749054, 7566.923828>)
+20:05:26.687 [VehicleDestroyed] ExpansionUh1h_Resistance (id=8C2635D1414349BB335E1BB9BCDAFE29 pos=<7925.001953, 169.108795, 11834.876953>)
+20:11:20.960 [VehicleDeleted] ExpansionUh1h_Resistance (id=8C2635D1414349BB335E1BB9BCDAFE29 pos=<7926.388184, 169.422577, 11835.000977>)
+20:13:05.492 [VehicleDestroyed] ExpansionUh1h_Uber (id=69B7D8D80049CA007CB964ACDD683207 pos=<7924.733398, 169.323090, 11833.821289>)

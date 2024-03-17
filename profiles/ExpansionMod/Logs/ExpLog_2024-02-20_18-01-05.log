@@ -1,0 +1,4 @@
+18:55:29.515 [SpawnSelection] Player "TexasGotti" (id=7obR3W17JxNozAk9bW7s_0lBhi7llwF2cVOWAHTieG8=) spawned at <3028.617432, 271.855133, 12067.580078>
+18:56:36.890 [VehicleDestroyed] ExpansionUh1h_Medical (id=8C77C1494642BC0EA2095B806DE3CB81 pos=<7924.616211, 169.294067, 11833.771484>)
+19:00:26.187 [MissionAirdrop] An airdrop is heading towards "Dolnik" (pos=<11491.000000, 0.000000, 763.000000> type=Random_Dolnik) with a ExpansionAirdropContainer_Medical
+19:00:36.179 [MissionAirdrop] An airdrop is heading towards "Nadbor" (pos=<5996.000000, 0.000000, 4513.000000> type=Random_Nadbor) with a ExpansionAirdropContainer_Basebuilding
